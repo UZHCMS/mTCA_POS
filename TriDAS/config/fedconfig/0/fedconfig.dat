@@ -1,2 +1,0 @@
-#FED number     crate     vme base address     type    URI
-41               1         0x29                CTA     chtcp-2.0://localhost:10203?target=bpixfed1:50001
