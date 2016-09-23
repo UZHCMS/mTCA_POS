@@ -1,0 +1,461 @@
+confcal
+testab 100
+burst 100
+mode 1
+confamc
+testa 100
+testab 100
+fiforeset
+testab 100
+fiforeset
+testab 100
+confcal
+testcal 100
+exit
+testab 100
+burst 100
+confamc
+testab 100
+testroc 100
+exit
+cvs
+confcal
+bgoplus
+confamc
+confcal
+bgoplus
+testcal 100
+testab 100
+findphases
+burst 100
+mode 1
+confamc
+disablebgo
+testab 100
+confamc
+testab 100
+testroc 100
+.................................*
+testab 100
+testroc 100
+findphases
+testroc 100
+confcal
+bgoplus
+testcal 100
+enablebgo
+confamc
+bgoplus
+enablebgo
+starttrig
+spyfifo
+stoptrig
+fiforeset
+bgoplus
+spyfifo
+bgoplus
+spyfifo
+testcal 100
+testcal 100testcal 100
+testcal 100
+2.5
+testcal 100
+Vana 100
+testcal 100
+testab 100
+findphases
+exit
+confcal
+bgoplus
+bgoplus 
+bgoplus
+testab 100
+testroc 100
+bgoplus
+fiforeset
+bgoplus
+exit
+testab 100
+mode 1
+burst 100
+confamc
+testab 100
+confcal
+bgoplus
+spyfifo
+disablebgo
+enablebgo
+testcal 100
+testroc 100
+trigger
+spyfifo
+testcal 100
+testcal 10
+exit
+confcal
+testcal 10
+testcal 
+testcal 10
+disablebgo
+testcal 100
+testcal 10
+testab 100
+burst 100
+mode 1
+confamc
+testab 100
+testroc 100
+testcal 100
+testroc 10
+fiforeset
+trigger
+spyfifo
+burst 1
+mode 0
+confamc
+testcal 100
+exot
+exit
+confcal
+disablebgo
+testcal 100
+testab 100
+burst 100
+mode 1
+confamc
+testab 100
+exit
+confamc
+exit
+confamc
+confacm
+confamc
+exit
+test 10
+confamc
+exit
+trigger
+spyfifo
+trigger
+spyfifo
+trigger
+spyfifo
+fiforeset
+exit
+confcal
+disablebgo
+tetsab 100
+testcal 100
+mode 0
+burst 100
+testab 100
+confamc
+testab 100
+confamc
+mode 1
+burst 100
+confamc
+testab 100
+findphases
+testab 100
+mode 0
+burst 1
+confamc
+testcal 100
+testcal 1
+testcal 100
+testcal 1
+test 100
+testcal 100
+enablebgo
+bgoplus
+testcal 100
+disablebgo
+confcal 
+disablebgo
+confamc
+testab 100
+enablebgo
+testcal 1
+testcal 100
+disablebgo
+testcal 100
+enablebgo
+2       36      20      69
+2       36      21      74
+testcal 100
+findphases
+testab 100
+mode 1
+burst 1
+burst 100
+confamc
+disablebgo
+testab 100
+confcal
+bgoplus
+testroc 100
+testcal 100
+testcal 1000
+fiforeset
+spyfifo
+testcal 100
+burst 100
+mode 1
+confamc
+disablebgo
+testab 100
+testcal 100
+burst 100
+mode 1
+confamc
+disablebgo
+testab 100
+confcal
+testcal 100
+spyfifo
+trigger
+spyfifo
+burst 100
+mode 1
+confamc
+testab 100
+fiforeset
+testab 100
+findphases
+disablebgo
+mode 1
+burst 100
+confamc
+testab 100
+testab 100 
+testab 100
+mode 1 
+burst 100
+confamc
+testab 100
+findphases
+testab 100
+findphases
+testab 100
+fiforeset
+spyfifo
+trigger
+spyfifo
+fiforeset
+spyfifo
+mode 1
+burst 1
+confamc
+trigger
+spyfifo
+trigger
+spyfifo
+confbgo
+confcal
+trigger
+spyfifo
+testcal 10
+testcal 100
+mode 1
+burst 100
+confamc
+disablebgo
+confcal
+testcal 10
+testcal 100
+testcal 10
+testcal 100
+confcal
+testcal 100
+trigger
+spyfifo
+testcal 100
+confcal
+testcal 100
+fiforeset
+confcal
+testcal 100
+testcal
+testcal 100
+confcal
+testcal 10
+testcal 100
+mode 1
+burst 100
+disablebgo
+confamc
+testab 100
+resetfifo
+fiforeset
+exit
+fiforeset
+testab 100
+mode 1
+burst 100
+confamc
+testab 100
+confcal
+testcal 100
+fiforeset
+spyfifo
+trigger
+spyfifo
+trigger
+spyfifo
+mode 1
+burst 100
+testab 100
+burst 100
+testab 100
+findphases
+testab 100
+fiforeset
+trigger\
+trigger
+spyfifo
+burst 100
+mode 1
+confamc
+testab 100
+findphases
+testab 100
+findphases
+testab 100
+confcal
+fiforeset
+trigger
+spyfifo
+testab 100
+trigger
+spyfifo
+fiforeset
+trigger
+spyfifo
+enablebgo
+spyfifo
+testcal 10
+trigger
+spyfifo
+trigger
+spyfifo
+testcal 10
+testcal 100
+enablebgo
+confcal
+testcal 10
+testcal 100
+trigger
+spyfifo
+testcal 100
+exi
+exit
+burst 100
+mode 1
+confamc
+testab 100
+findphases
+testab 100
+testroc 10
+testroc 100
+fiforeset
+trigger
+spyfifo
+confcal
+fiforeset
+trigger
+spyfifo
+trigger
+spyfifo
+trigger
+spyfifo
+mode 1
+burst 100
+disablebgo
+confamc
+testab 10
+testab 100
+confcal
+fiforeset
+trigger
+spyfifo
+testcal 100
+disable trigger
+disablebgo
+enablebgo
+starttrig
+mode 1
+mode 0
+burst 1
+confamc
+stoptrig
+disablebgo
+starttrig
+enablebgo
+bgo
+disablebgo
+enablebgo
+disablebgo
+enablebgo
+disablebgo
+enablebgo
+disablebgo
+bgo
+enablebgo
+stoptrig
+disablebgo
+bgo
+enablebgo
+disablebgo
+bgo
+bgo 100
+bgo 
+enablebgo
+disablebgo
+bgo
+enablebgo
+bgo
+bgoplus
+confcal
+gboplus
+bgoplus
+fiforeset
+bgoplus
+bgo
+disablebgo
+bgo
+setbgo 0x2c 0 1 374
+confamc
+enablebgo
+bgo
+bgoplus
+testcal 10
+confamc
+testab 100
+mode 1
+burst 100
+confamc
+testab 100
+testroc 100
+testroc
+testroc 100
+confcal
+disableroc
+disablebgo
+testcal 100
+findphases
+burst 100
+mode 1
+confamc
+testab 10
+testab 100
+burst 1
+mode 1
+confamc
+fiforeset
+trigger
+spyfifo
+trigger
+spyfifo
+confcal
+findphases

@@ -11,7 +11,7 @@
 #include <fstream>
 using namespace std;
 
-
+//bool SimpleCommand::Keyword(const string& keyword, int& value1, int& value2, int& value3, int& value4);
 
 //-----------------------------------------------------------
 
@@ -755,7 +755,26 @@ bool SimpleCommand::Keyword(const string& keyword,
     return false;
   }
 }
-
+ 
+bool SimpleCommand::Keyword(const string& keyword, int& value1, int& value2, int& value3, int& value4){
+  if( (tokens.size()==5) &&
+      (tokens[0].type==kString) && (tokens[0].token==keyword) &&
+      (tokens[1].type==kInt   ) &&
+      (tokens[2].type==kInt   ) &&
+      (tokens[3].type==kInt   ) &&
+      (tokens[4].type==kInt   )
+) 
+      
+  {
+    value1=tokens[1].i;
+    value2=tokens[2].i;
+    value3=tokens[3].i;
+    value4=tokens[4].i;
+    return true;
+  }else{
+    return false;
+  }
+}
  
 bool SimpleCommand::Keyword(const string& keyword1, int& value1, int& value2, const string& keyword2){
   if( (tokens.size()==4) &&

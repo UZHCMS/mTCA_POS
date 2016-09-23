@@ -3,4 +3,4 @@ source setup.bsh
 
 
 echo "starting fed server"
-./digitalfed  -port 2006
+./digitalfed settings/HWDescription.xml -port 2060

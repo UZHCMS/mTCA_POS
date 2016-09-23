@@ -1424,9 +1424,8 @@ Gl_histadd(const char *buf)
                   char line[BUFSIZ];
 
                   fp = fopen(gl_histfile, "r");
-                  //tmpnam(tname);
-                  mkstemp(tname);
-		  ftmp = fopen(tname, "w");
+                  tmpnam(tname);
+                  ftmp = fopen(tname, "w");
                   if (fp && ftmp) {
                      int nline = 0;
                      while (fgets(line, BUFSIZ, fp)) {

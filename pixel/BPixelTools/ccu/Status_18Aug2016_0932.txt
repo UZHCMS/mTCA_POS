@@ -1,0 +1,31 @@
+
+-------------------------------------------------
+Scan the device driver FECs
+Found a FEC device driver on slot 0.0
+	FEC status register  0: 0x4cb0
+		FIFO receive empty
+		FIFO return half full
+		FIFO return empty
+		FIFO transmit empty
+		Link initialise
+		TTCRx ok
+	FEC status register  1: 0x0
+	FEC control register 0: 0x1
+		FEC enable
+		Output ring A
+		Input ring A
+		Sel irq mode = 0
+	FEC control register 1: 0
+-------------------------------------------------
+Scan the ring to find CCUs for FEC 0 ring 0
+No CCU on FEC 0 ring 0
+-------------------------------------------------
+Scan the ring to find CCUs for FEC 0 ring 1
+No CCU on FEC 0 ring 1
+-------------------------------------------------
+Scan the ring to find CCUs for FEC 0 ring 2
+No CCU on FEC 0 ring 2
+-------------------------------------------------
+Scan the ring to find CCUs for FEC 0 ring 3
+No CCU on FEC 0 ring 3
+

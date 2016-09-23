@@ -1,0 +1,7 @@
+#the gain was set to: 2	the bias was set to: 30	the tbmplldelay was set to: 0	the tbmadelay was set to: 0
+#Sent triggers: 100	and with a frequency [Hz] of: 40000
+#RocNr	ColAddr	RowAddr	PixelHight
+not good
+not good
+not good
+not good

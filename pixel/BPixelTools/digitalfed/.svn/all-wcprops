@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/reps/cmspxldaq/!svn/ver/5334/BPixelTools/trunk/digitalfed
+END
+run.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/reps/cmspxldaq/!svn/ver/5334/BPixelTools/trunk/digitalfed/run.bsh
+END
+TBMdecode.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/reps/cmspxldaq/!svn/ver/5334/BPixelTools/trunk/digitalfed/TBMdecode.cc
+END
+setup.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/reps/cmspxldaq/!svn/ver/5334/BPixelTools/trunk/digitalfed/setup.bsh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/reps/cmspxldaq/!svn/ver/5334/BPixelTools/trunk/digitalfed/Makefile
+END
+digitalfed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/reps/cmspxldaq/!svn/ver/5334/BPixelTools/trunk/digitalfed/digitalfed.cpp
+END

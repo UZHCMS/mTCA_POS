@@ -1,0 +1,113 @@
+
+-------------------------------------------------
+Scan the device driver FECs
+Found a FEC device driver on slot 0.0
+	FEC status register  0: 0x4c90
+		FIFO receive empty
+		FIFO return empty
+		FIFO transmit empty
+		Link initialise
+		TTCRx ok
+	FEC status register  1: 0x0
+	FEC control register 0: 0x0
+		FEC disable
+		Output ring A
+		Input ring A
+		Sel irq mode = 0
+	FEC control register 1: 0
+-------------------------------------------------
+Scan the ring to find CCUs for FEC 0 ring 0
+FEC 0x0 Ring 0x 0 CCU 0x7e found
+	CCU status register  A: 0x0
+	CCU status register  B: 0x24
+	CCU status register  C: 0x0
+	CCU status register  D: 0x0
+	CCU status register  E: 0x0
+	CCU status register  F: 0x0
+	CCU control register A: 0x0
+	CCU control register B: 0x30
+	CCU control register C: 0x0
+	CCU control register D: 0x0
+	CCU control register E: 0x0
+FEC 0x0 Ring 0x 0 CCU 0x7d found
+	CCU status register  A: 0x0
+	CCU status register  B: 0x2f
+	CCU status register  C: 0x0
+	CCU status register  D: 0x0
+	CCU status register  E: 0x0
+	CCU status register  F: 0x0
+	CCU control register A: 0x0
+	CCU control register B: 0x30
+	CCU control register C: 0x0
+	CCU control register D: 0x0
+	CCU control register E: 0x0
+FEC 0x0 Ring 0x 0 CCU 0x7b found
+	CCU status register  A: 0x0
+	CCU status register  B: 0x3a
+	CCU status register  C: 0x0
+	CCU status register  D: 0x0
+	CCU status register  E: 0x0
+	CCU status register  F: 0x0
+	CCU control register A: 0x0
+	CCU control register B: 0x30
+	CCU control register C: 0x0
+	CCU control register D: 0x0
+	CCU control register E: 0x0
+FEC 0x0 Ring 0x 0 CCU 0x7a found
+	CCU status register  A: 0x0
+	CCU status register  B: 0x45
+	CCU status register  C: 0x0
+	CCU status register  D: 0x0
+	CCU status register  E: 0x0
+	CCU status register  F: 0x0
+	CCU control register A: 0x0
+	CCU control register B: 0x30
+	CCU control register C: 0x0
+	CCU control register D: 0x0
+	CCU control register E: 0x0
+FEC 0x0 Ring 0x 0 CCU 0x79 found
+	CCU status register  A: 0x0
+	CCU status register  B: 0x50
+	CCU status register  C: 0x0
+	CCU status register  D: 0x0
+	CCU status register  E: 0x0
+	CCU status register  F: 0x0
+	CCU control register A: 0x0
+	CCU control register B: 0x30
+	CCU control register C: 0x0
+	CCU control register D: 0x0
+	CCU control register E: 0x0
+FEC 0x0 Ring 0x 0 CCU 0x78 found
+	CCU status register  A: 0x0
+	CCU status register  B: 0x5b
+	CCU status register  C: 0x0
+	CCU status register  D: 0x0
+	CCU status register  E: 0x0
+	CCU status register  F: 0x0
+	CCU control register A: 0x0
+	CCU control register B: 0x30
+	CCU control register C: 0x0
+	CCU control register D: 0x0
+	CCU control register E: 0x0
+FEC 0x0 Ring 0x 0 CCU 0x77 found
+	CCU status register  A: 0x0
+	CCU status register  B: 0x66
+	CCU status register  C: 0x0
+	CCU status register  D: 0x0
+	CCU status register  E: 0x0
+	CCU status register  F: 0x0
+	CCU control register A: 0x0
+	CCU control register B: 0x30
+	CCU control register C: 0x0
+	CCU control register D: 0x0
+	CCU control register E: 0x0
+-------------------------------------------------
+Scan the ring to find CCUs for FEC 0 ring 1
+No CCU on FEC 0 ring 1
+-------------------------------------------------
+Scan the ring to find CCUs for FEC 0 ring 2
+No CCU on FEC 0 ring 2
+-------------------------------------------------
+Scan the ring to find CCUs for FEC 0 ring 3
+No CCU on FEC 0 ring 3
+

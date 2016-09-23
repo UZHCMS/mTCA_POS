@@ -1,0 +1,18 @@
+#the gain was set to: 2	the bias was set to: 30	the tbmplldelay was set to: 0	the tbmadelay was set to: 0
+#Sent triggers: 100	and with a frequency [Hz] of: 40000
+#RocNr	ColAddr	RowAddr	PixelHight
+16	48	43	12
+16	43	30	6
+16	48	43	10
+16	48	43	9
+16	48	43	12
+16	43	30	8
+14	45	0	10
+6	48	0	25
+16	48	43	10
+6	49	2	24
+16	43	30	6
+16	48	43	9
+6	48	0	21
+16	43	30	6
+16	48	43	9
