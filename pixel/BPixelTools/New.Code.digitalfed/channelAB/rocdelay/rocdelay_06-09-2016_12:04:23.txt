@@ -1,0 +1,1 @@
+#the gain was set to: 2	the bias was set to: 30	the tbmplldelay was set to: 

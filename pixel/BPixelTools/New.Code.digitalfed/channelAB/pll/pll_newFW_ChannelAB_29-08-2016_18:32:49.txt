@@ -1,0 +1,7 @@
+#the gain was set to: 2	the bias was set to: 30
+#Sent triggers per delay setting: 10000	and with a frequency [Hz] of: 40000
+#160MHz delay setting	400MHz delay setting	Frequency	correct transmitted H+T		error rate [%]	uncertainty [%]	bad or missed events	error count	missing headers	missing trailers	flipped H/T	event nr errors	tbm missed trigger	unknown errors	event nr resets
+0	0	G	40000	26	99.74	82.855	9974	1492	8	0	0	1381	31	72	1434
+0	0	A	40000	44	99.56	98.57	9956	99	6	0	0	9	16	68	44
+0	0	B	40000	1893	81.07	67.14	8107	1393	2	0	0	1372	15	4	1390
+0	0	cSpy was 2 spamed and the readout avoided!

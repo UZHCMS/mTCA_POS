@@ -1,0 +1,3305 @@
+#the gain was set to: 2	the bias was set to: 30	the tbmplldelay was set to: 183
+#Sent triggers per delay setting: 10000	and with a frequency [Hz] of: 40000
+#Delay token Ins by 6.25ns	delay Head/Trail by 6.25ns	delay port 1	delay port 0	Frequency	good words	tot error	error in %	bad or missed events (tbm header/trailer not correct)
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel  
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	
+0	0	0	0	Channel A
+0	0	0	0	
+0	0	0	0	Channel B
+0	0	0	0	G	40000	8141	11555	59.295	11859	
+0	0	0	0	A	40000	0	9717	100	10000	
+0	0	0	0	B	40000	8141	1838	18.59	1859	
+0	0	0	0	Channel A had 374 times no trailer -> readout avoided!
+0	0	0	0	Channel B had 714 times no trailer -> readout avoided!
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel  
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	
+0	0	0	1	Channel A
+0	0	0	1	
+0	0	0	1	Channel B
+0	0	0	1	G	40000	10000	10000	50	10000	
+0	0	0	1	A	40000	0	10000	100	10000	
+0	0	0	1	B	40000	10000	0	0	0	
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel  
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	
+0	0	0	2	Channel A
+0	0	0	2	
+0	0	0	2	Channel B
+0	0	0	2	G	40000	10000	10000	50	10000	
+0	0	0	2	A	40000	0	10000	100	10000	
+0	0	0	2	B	40000	10000	0	0	0	
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel  
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	
+0	0	0	3	Channel A
+0	0	0	3	
+0	0	0	3	Channel B
+0	0	0	3	G	40000	10000	10000	50	10000	
+0	0	0	3	A	40000	0	10000	100	10000	
+0	0	0	3	B	40000	10000	0	0	0	

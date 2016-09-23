@@ -1,0 +1,3 @@
+#the gain was set to: 2	the bias was set to: 30
+#Sent triggers per delay setting: 100000	and with a frequency [Hz] of: 40000
+#160MHz delay setting	400MHz delay setting	Frequency	correct transmitted H+T		error rate [%]	uncertainty [%]	bad or missed events	error count	missing headers	missing trailers	flipped H/T	event nr errors	tbm missed trigger	unknown errors	event nr resets

@@ -1,0 +1,421 @@
+#Sent triggers per delay setting: 10000	and with a frequency [Hz] of: 40000
+#120MHz delay setting	400MHz delay setting	Frequency	correct transmitted H+T		error rate [%]	uncertainty [%]	bad or missed events	error count	missing headers	missing trailers	flipped H/T	event nr errors	tbm missed trigger	unknown errors	event nr resets
+0b0	0b0	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	20	99.8	99.24	9980	56	1	0	0	6	3	41	20
+0b0	0b1	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b0	0b10	40000	5652	43.48	24.94	4348	1854	0	0	0	1853	1	0	1854
+0b0	0b11	40000	2	99.98	99.97	9998	1	0	0	0	0	1	0	2
+0b0	0b100	40000	9282	7.18	1.94	718	524	0	0	0	522	2	0	525
+0b0	0b101	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b0	0b110	40000	9928	0.72	0	72	72	0	0	0	72	0	0	73
+0b0	0b111	40000	678	93.22	86.21	9322	701	15	0	0	519	146	21	674
+0b1	000	40000	85	99.15	98.28	9915	87	0	0	0	63	16	8	85
+0b1	001	40000	5772	42.28	39.47	4228	281	6	0	0	213	52	10	272
+0b1	010	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b1	011	40000	326	96.74	93.45	9674	329	4	0	0	248	73	4	322
+0b1	100	40000	830	91.7	83.29	9170	841	17	0	0	706	81	36	800
+0b1	101	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b1	110	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	4679	53.21	44.42	5321	879	0	0	0	801	49	29	863
+0b1	111	40000	132	98.68	96.87	9868	181	19	0	0	1	103	54	132
+0b10	000	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	86	99.14	98.06	9914	108	6	0	0	68	2	31	86
+0b10	001	cSpyA is spamed, readout avoided!
+40000	93	99.07	97.85	9907	122	11	0	0	9	65	35	93
+0b10	010	40000	6891	31.09	11.14	3109	1995	1	0	0	1958	33	3	1996
+0b10	011	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b10	100	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b10	101	cSpyA is spamed, readout avoided!
+40000	923	90.77	81.34	9077	943	27	2	0	805	28	80	869
+0b10	110	cSpyA is spamed, readout avoided!
+40000	110	98.9	97.45	9890	145	16	0	0	3	91	32	110
+0b10	111	40000	9690	3.1	1.09	310	201	0	0	0	200	0	1	202
+0b11	000	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	113	98.87	97.28	9887	159	8	0	0	81	10	56	113
+0b11	001	40000	243	97.57	94.74	9757	283	1	0	0	207	0	75	239
+0b11	010	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	112	98.88	97.27	9888	161	10	0	0	42	37	71	112
+0b11	011	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b11	100	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b11	101	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b11	110	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b11	111	40000	1166	88.34	76.61	8834	1173	19	26	0	1068	6	54	1119
+0b100	000	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	10	99.9	99.48	9990	42	0	0	0	2	0	39	10
+0b100	001	40000	5053	49.47	35.35	4947	1412	28	2	0	1337	2	43	1362
+0b100	010	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b100	011	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	412	95.88	77.54	9588	1834	1	1416	0	128	231	58	412
+0b100	100	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	69	99.31	98.1	9931	121	9	0	0	33	13	62	69
+0b100	101	40000	9897	1.03	1.01	103	2	0	0	0	2	0	0	3
+0b100	110	40000	1075	89.25	77.84	8925	1141	30	12	0	989	36	74	1067
+0b100	111	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	164	98.36	96.13	9836	223	13	0	0	89	44	73	164
+0b101	000	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	43	99.57	98.65	9957	92	4	0	0	22	4	54	42
+0b101	001	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	90	99.1	97.85	9910	125	8	0	0	48	19	48	86
+0b101	010	40000	6625	33.75	15.64	3375	1811	0	0	0	1697	101	13	1810
+0b101	011	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b101	100	40000	9409	5.91	0.29	591	562	0	0	0	562	0	0	563
+0b101	101	40000	40	99.6	99.13	9960	47	0	0	0	37	3	6	40
+0b101	110	40000	993	90.07	80.32	9007	975	4	0	0	850	42	79	935
+0b101	111	cSpyA is spamed, readout avoided!
+40000	6762	32.38	31.54	3238	84	7	0	0	33	19	25	62
+0b110	000	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	42	99.58	98.69	9958	89	6	0	0	19	1	53	42
+0b110	001	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	110	98.9	97.31	9890	159	17	0	0	51	24	64	110
+0b110	010	40000	7722	22.78	9.6	2278	1318	0	0	0	1271	37	10	1317
+0b110	011	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b110	100	40000	9770	2.3	0.36	230	194	0	0	0	193	0	1	195
+0b110	101	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	18	99.82	56.41	9982	4341	0	4282	0	1	4	53	18
+0b110	110	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	102	98.98	97.4	9898	158	23	0	0	41	31	56	101
+0b110	111	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b111	000	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	76	99.24	98.24	9924	100	5	0	0	46	8	37	74
+0b111	001	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b111	010	40000	9991	0.0899971	0	9	9	0	0	0	9	0	0	10
+0b111	011	cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+cSpyA is spamed, readout avoided!
+40000	28	99.72	99.28	9972	44	0	0	0	16	2	25	28
+0b111	100	40000	863	91.37	82.72	9137	865	6	0	0	729	44	86	821
+0b111	101	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b111	110	40000	10000	0	0	0	0	0	0	0	0	0	0	1
+0b111	111	40000	83	99.17	98	9917	117	9	0	0	68	2	31	82

@@ -1,0 +1,803 @@
+#the gain was set to: 2	the bias was set to: 30	the tbmplldelay was set to: 0
+#Sent triggers per delay setting: 10000	and with a frequency [Hz] of: 40000
+#Delay token Ins by 6.25ns	delay Head/Trail by 6.25ns	delay port 1	delay port 0	Frequency	good words	tot error	error in %	bad or missed events (tbm header/trailer not correct)
+0	0	0	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	0	1	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	0	2	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	0	3	G	40000	9995	1187	50.025	10005	
+0	0	0	3	A	40000	0	1182	100	10000	
+0	0	0	3	B	40000	9995	5	0.05	5	
+0	0	0	3	cSpy was 85 spamed and the readout avoided!
+0	0	0	3	Channel A had 7445 times no trailer -> readout avoided!
+0	0	0	4	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	0	5	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	0	6	G	40000	9990	1287	50.05	10010	
+0	0	0	6	A	40000	0	1277	100	10000	
+0	0	0	6	B	40000	9990	10	0.1	10	
+0	0	0	6	cSpy was 100 spamed and the readout avoided!
+0	0	0	6	Channel A had 7038 times no trailer -> readout avoided!
+0	0	0	7	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	1	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	1	1	G	40000	9997	6423	50.015	10003	
+0	0	1	1	A	40000	0	6420	100	10000	
+0	0	1	1	B	40000	9997	3	0.03	3	
+0	0	1	2	G	40000	9994	6446	50.03	10006	
+0	0	1	2	A	40000	0	6440	100	10000	
+0	0	1	2	B	40000	9994	6	0.06	6	
+0	0	1	3	G	40000	9996	6357	50.02	10004	
+0	0	1	3	A	40000	0	6353	100	10000	
+0	0	1	3	B	40000	9996	4	0.04	4	
+0	0	1	4	G	40000	9999	6377	50.005	10001	
+0	0	1	4	A	40000	0	6376	100	10000	
+0	0	1	4	B	40000	9999	1	0.01	1	
+0	0	1	5	G	40000	9992	6486	50.04	10008	
+0	0	1	5	A	40000	0	6478	100	10000	
+0	0	1	5	B	40000	9992	8	0.08	8	
+0	0	1	6	G	40000	9993	6394	50.035	10007	
+0	0	1	6	A	40000	0	6387	100	10000	
+0	0	1	6	B	40000	9993	7	0.07	7	
+0	0	1	7	G	40000	9996	6424	50.02	10004	
+0	0	1	7	A	40000	0	6420	100	10000	
+0	0	1	7	B	40000	9996	4	0.04	4	
+0	0	2	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	2	1	G	40000	9996	6380	50.02	10004	
+0	0	2	1	A	40000	0	6376	100	10000	
+0	0	2	1	B	40000	9996	4	0.04	4	
+0	0	2	2	G	40000	9999	6321	50.005	10001	
+0	0	2	2	A	40000	0	6320	100	10000	
+0	0	2	2	B	40000	9999	1	0.01	1	
+0	0	2	3	G	40000	9996	6333	50.02	10004	
+0	0	2	3	A	40000	0	6329	100	10000	
+0	0	2	3	B	40000	9996	4	0.04	4	
+0	0	2	4	G	40000	9993	6313	50.035	10007	
+0	0	2	4	A	40000	0	6306	100	10000	
+0	0	2	4	B	40000	9993	7	0.07	7	
+0	0	2	5	G	40000	9995	6292	50.025	10005	
+0	0	2	5	A	40000	0	6287	100	10000	
+0	0	2	5	B	40000	9995	5	0.05	5	
+0	0	2	6	G	40000	9998	6347	50.01	10002	
+0	0	2	6	A	40000	0	6345	100	10000	
+0	0	2	6	B	40000	9998	2	0.02	2	
+0	0	2	7	G	40000	9994	6280	50.03	10006	
+0	0	2	7	A	40000	0	6274	100	10000	
+0	0	2	7	B	40000	9994	6	0.06	6	
+0	0	3	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	3	1	G	40000	9994	6238	50.03	10006	
+0	0	3	1	A	40000	0	6232	100	10000	
+0	0	3	1	B	40000	9994	6	0.06	6	
+0	0	3	2	G	40000	9989	6218	50.055	10011	
+0	0	3	2	A	40000	0	6207	100	10000	
+0	0	3	2	B	40000	9989	11	0.11	11	
+0	0	3	3	G	40000	9994	6241	50.03	10006	
+0	0	3	3	A	40000	0	6235	100	10000	
+0	0	3	3	B	40000	9994	6	0.06	6	
+0	0	3	4	G	40000	9993	6269	50.035	10007	
+0	0	3	4	A	40000	0	6262	100	10000	
+0	0	3	4	B	40000	9993	7	0.07	7	
+0	0	3	5	G	40000	9990	6199	50.05	10010	
+0	0	3	5	A	40000	0	6189	100	10000	
+0	0	3	5	B	40000	9990	10	0.1	10	
+0	0	3	6	G	40000	9991	6270	50.045	10009	
+0	0	3	6	A	40000	0	6261	100	10000	
+0	0	3	6	B	40000	9991	9	0.09	9	
+0	0	3	7	G	40000	9995	6202	50.025	10005	
+0	0	3	7	A	40000	0	6197	100	10000	
+0	0	3	7	B	40000	9995	5	0.05	5	
+0	0	4	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	4	1	G	40000	9990	6077	50.05	10010	
+0	0	4	1	A	40000	0	6067	100	10000	
+0	0	4	1	B	40000	9990	10	0.1	10	
+0	0	4	2	G	40000	9989	6175	50.055	10011	
+0	0	4	2	A	40000	0	6164	100	10000	
+0	0	4	2	B	40000	9989	11	0.11	11	
+0	0	4	3	G	40000	9996	6076	50.02	10004	
+0	0	4	3	A	40000	0	6072	100	10000	
+0	0	4	3	B	40000	9996	4	0.04	4	
+0	0	4	4	G	40000	9990	6073	50.05	10010	
+0	0	4	4	A	40000	0	6063	100	10000	
+0	0	4	4	B	40000	9990	10	0.1	10	
+0	0	4	5	G	40000	9990	6150	50.05	10010	
+0	0	4	5	A	40000	0	6140	100	10000	
+0	0	4	5	B	40000	9990	10	0.1	10	
+0	0	4	6	G	40000	9989	6095	50.055	10011	
+0	0	4	6	A	40000	0	6084	100	10000	
+0	0	4	6	B	40000	9989	11	0.11	11	
+0	0	4	7	G	40000	9988	6099	50.06	10012	
+0	0	4	7	A	40000	0	6087	100	10000	
+0	0	4	7	B	40000	9988	12	0.12	12	
+0	0	4	7	Channel A had 35 times no trailer -> readout avoided!
+0	0	5	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	5	1	G	40000	9996	6073	50.02	10004	
+0	0	5	1	A	40000	0	6069	100	10000	
+0	0	5	1	B	40000	9996	4	0.04	4	
+0	0	5	2	G	40000	9994	6125	50.03	10006	
+0	0	5	2	A	40000	0	6119	100	10000	
+0	0	5	2	B	40000	9994	6	0.06	6	
+0	0	5	3	G	40000	9991	6094	50.045	10009	
+0	0	5	3	A	40000	0	6085	100	10000	
+0	0	5	3	B	40000	9991	9	0.09	9	
+0	0	5	4	G	40000	9986	6009	50.07	10014	
+0	0	5	4	A	40000	0	5995	100	10000	
+0	0	5	4	B	40000	9986	14	0.14	14	
+0	0	5	5	G	40000	9991	6068	50.045	10009	
+0	0	5	5	A	40000	0	6059	100	10000	
+0	0	5	5	B	40000	9991	9	0.09	9	
+0	0	5	6	G	40000	9987	6089	50.065	10013	
+0	0	5	6	A	40000	0	6076	100	10000	
+0	0	5	6	B	40000	9987	13	0.13	13	
+0	0	5	7	G	40000	9984	6103	50.08	10016	
+0	0	5	7	A	40000	0	6087	100	10000	
+0	0	5	7	B	40000	9984	16	0.16	16	
+0	0	6	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	6	1	G	40000	9989	6059	50.055	10011	
+0	0	6	1	A	40000	0	6048	100	10000	
+0	0	6	1	B	40000	9989	11	0.11	11	
+0	0	6	2	G	40000	9989	6081	50.055	10011	
+0	0	6	2	A	40000	0	6070	100	10000	
+0	0	6	2	B	40000	9989	11	0.11	11	
+0	0	6	3	G	40000	9983	5988	50.085	10017	
+0	0	6	3	A	40000	0	5971	100	10000	
+0	0	6	3	B	40000	9983	17	0.17	17	
+0	0	6	4	G	40000	9983	6030	50.085	10017	
+0	0	6	4	A	40000	0	6013	100	10000	
+0	0	6	4	B	40000	9983	17	0.17	17	
+0	0	6	5	G	40000	9984	6000	50.08	10016	
+0	0	6	5	A	40000	0	5984	100	10000	
+0	0	6	5	B	40000	9984	16	0.16	16	
+0	0	6	6	G	40000	9990	5968	50.05	10010	
+0	0	6	6	A	40000	0	5958	100	10000	
+0	0	6	6	B	40000	9990	10	0.1	10	
+0	0	6	7	G	40000	9987	5982	50.065	10013	
+0	0	6	7	A	40000	0	5970	100	10000	
+0	0	6	7	B	40000	9987	12	0.13	13	
+0	0	6	7	Channel B had 34 times no trailer -> readout avoided!
+0	0	7	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	7	1	G	40000	9988	5875	50.06	10012	
+0	0	7	1	A	40000	0	5863	100	10000	
+0	0	7	1	B	40000	9988	12	0.12	12	
+0	0	7	2	G	40000	9987	5891	50.065	10013	
+0	0	7	2	A	40000	0	5878	100	10000	
+0	0	7	2	B	40000	9987	13	0.13	13	
+0	0	7	3	G	40000	9992	5843	50.04	10008	
+0	0	7	3	A	40000	0	5835	100	10000	
+0	0	7	3	B	40000	9992	8	0.08	8	
+0	0	7	4	G	40000	9987	5849	50.065	10013	
+0	0	7	4	A	40000	0	5836	100	10000	
+0	0	7	4	B	40000	9987	13	0.13	13	
+0	0	7	5	G	40000	9982	5894	50.09	10018	
+0	0	7	5	A	40000	0	5876	100	10000	
+0	0	7	5	B	40000	9982	18	0.18	18	
+0	0	7	6	G	40000	9977	5892	50.115	10023	
+0	0	7	6	A	40000	0	5869	100	10000	
+0	0	7	6	B	40000	9977	23	0.23	23	
+0	0	7	7	G	40000	9986	5924	50.07	10014	
+0	0	7	7	A	40000	0	5910	100	10000	
+0	0	7	7	B	40000	9986	14	0.14	14	
+0	1	0	0	G	40000	9986	9268	50.07	10014	
+0	1	0	0	A	40000	0	9254	100	10000	
+0	1	0	0	B	40000	9986	14	0.14	14	
+0	1	0	0	Channel A had 102 times no trailer -> readout avoided!
+0	1	0	1	G	40000	9983	6192	50.085	10017	
+0	1	0	1	A	40000	0	6175	100	10000	
+0	1	0	1	B	40000	9983	17	0.17	17	
+0	1	0	1	cSpy was 1 spamed and the readout avoided!
+0	1	0	1	Channel A had 102 times no trailer -> readout avoided!
+0	1	0	2	G	40000	9985	6273	50.075	10015	
+0	1	0	2	A	40000	0	6258	100	10000	
+0	1	0	2	B	40000	9985	15	0.15	15	
+0	1	0	2	cSpy was 1 spamed and the readout avoided!
+0	1	0	2	Channel A had 343 times no trailer -> readout avoided!
+0	1	0	3	G	40000	9990	6223	50.05	10010	
+0	1	0	3	A	40000	0	6213	100	10000	
+0	1	0	3	B	40000	9990	10	0.1	10	
+0	1	0	3	Channel A had 273 times no trailer -> readout avoided!
+0	1	0	4	G	40000	9987	6317	50.065	10013	
+0	1	0	4	A	40000	0	6304	100	10000	
+0	1	0	4	B	40000	9987	13	0.13	13	
+0	1	0	4	cSpy was 1 spamed and the readout avoided!
+0	1	0	4	Channel A had 376 times no trailer -> readout avoided!
+0	1	0	5	G	40000	9986	6155	50.07	10014	
+0	1	0	5	A	40000	0	6141	100	10000	
+0	1	0	5	B	40000	9986	14	0.14	14	
+0	1	0	5	cSpy was 1 spamed and the readout avoided!
+0	1	0	5	Channel A had 272 times no trailer -> readout avoided!
+0	1	0	6	G	40000	9986	6264	50.07	10014	
+0	1	0	6	A	40000	0	6250	100	10000	
+0	1	0	6	B	40000	9986	14	0.14	14	
+0	1	0	6	cSpy was 3 spamed and the readout avoided!
+0	1	0	6	Channel A had 170 times no trailer -> readout avoided!
+0	1	0	7	G	40000	9988	6254	50.06	10012	
+0	1	0	7	A	40000	0	6242	100	10000	
+0	1	0	7	B	40000	9988	12	0.12	12	
+0	1	0	7	cSpy was 3 spamed and the readout avoided!
+0	1	0	7	Channel A had 275 times no trailer -> readout avoided!
+0	1	1	0	G	40000	9987	9427	50.065	10013	
+0	1	1	0	A	40000	0	9414	100	10000	
+0	1	1	0	B	40000	9987	13	0.13	13	
+0	1	1	0	Channel A had 2618 times no trailer -> readout avoided!
+0	1	1	1	G	40000	10186	1470	49.07	9814	
+0	1	1	1	A	40000	768	1459	92.32	9232	
+0	1	1	1	B	40000	9418	11	5.82	582	
+0	1	1	1	Channel A had 2050 times no trailer -> readout avoided!
+0	1	1	2	G	40000	10285	1496	48.575	9715	
+0	1	1	2	A	40000	762	1484	92.38	9238	
+0	1	1	2	B	40000	9523	12	4.77	477	
+0	1	1	2	cSpy was 1 spamed and the readout avoided!
+0	1	1	2	Channel A had 1678 times no trailer -> readout avoided!
+0	1	1	3	G	40000	9876	1493	50.62	10124	
+0	1	1	3	A	40000	743	1481	92.57	9257	
+0	1	1	3	B	40000	9133	12	8.67	867	
+0	1	1	3	Channel A had 2429 times no trailer -> readout avoided!
+0	1	1	4	G	40000	10373	1429	48.135	9627	
+0	1	1	4	A	40000	781	1413	92.19	9219	
+0	1	1	4	B	40000	9592	16	4.08	408	
+0	1	1	4	Channel A had 2219 times no trailer -> readout avoided!
+0	1	1	5	G	40000	10047	1530	49.765	9953	
+0	1	1	5	A	40000	782	1509	92.18	9218	
+0	1	1	5	B	40000	9265	21	7.35	735	
+0	1	1	5	cSpy was 4 spamed and the readout avoided!
+0	1	1	5	Channel A had 2114 times no trailer -> readout avoided!
+0	1	1	6	G	40000	10047	1423	49.765	9953	
+0	1	1	6	A	40000	715	1408	92.85	9285	
+0	1	1	6	B	40000	9332	15	6.68	668	
+0	1	1	6	Channel A had 2123 times no trailer -> readout avoided!
+0	1	1	7	G	40000	10219	1431	48.905	9781	
+0	1	1	7	A	40000	677	1417	93.23	9323	
+0	1	1	7	B	40000	9542	14	4.58	458	
+0	1	1	7	cSpy was 2 spamed and the readout avoided!
+0	1	1	7	Channel A had 1710 times no trailer -> readout avoided!
+0	1	2	0	G	40000	9987	9607	50.065	10013	
+0	1	2	0	A	40000	0	9594	100	10000	
+0	1	2	0	B	40000	9987	13	0.13	13	
+0	1	2	0	cSpy was 2 spamed and the readout avoided!
+0	1	2	0	Channel A had 2624 times no trailer -> readout avoided!
+0	1	2	1	G	40000	10408	1518	47.96	9592	
+0	1	2	1	A	40000	810	1511	91.9	9190	
+0	1	2	1	B	40000	9598	7	4.02	402	
+0	1	2	1	Channel A had 2085 times no trailer -> readout avoided!
+0	1	2	2	G	40000	9966	1410	50.17	10034	
+0	1	2	2	A	40000	700	1398	93	9300	
+0	1	2	2	B	40000	9266	12	7.34	734	
+0	1	2	2	cSpy was 1 spamed and the readout avoided!
+0	1	2	2	Channel A had 1983 times no trailer -> readout avoided!
+0	1	2	3	G	40000	10028	1425	49.86	9972	
+0	1	2	3	A	40000	715	1411	92.85	9285	
+0	1	2	3	B	40000	9313	14	6.87	687	
+0	1	2	3	Channel A had 2078 times no trailer -> readout avoided!
+0	1	2	4	G	40000	10031	1438	49.845	9969	
+0	1	2	4	A	40000	735	1421	92.65	9265	
+0	1	2	4	B	40000	9296	17	7.04	704	
+0	1	2	4	cSpy was 1 spamed and the readout avoided!
+0	1	2	4	Channel A had 2151 times no trailer -> readout avoided!
+0	1	2	5	G	40000	9717	1477	51.415	10283	
+0	1	2	5	A	40000	684	1465	93.16	9316	
+0	1	2	5	B	40000	9033	12	9.67	967	
+0	1	2	5	cSpy was 1 spamed and the readout avoided!
+0	1	2	5	Channel A had 2327 times no trailer -> readout avoided!
+0	1	2	6	G	40000	10152	1437	49.24	9848	
+0	1	2	6	A	40000	681	1424	93.19	9319	
+0	1	2	6	B	40000	9471	13	5.29	529	
+0	1	2	6	Channel A had 1951 times no trailer -> readout avoided!
+0	1	2	7	G	40000	10231	1507	48.845	9769	
+0	1	2	7	A	40000	685	1489	93.15	9315	
+0	1	2	7	B	40000	9546	18	4.54	454	
+0	1	2	7	Channel A had 2019 times no trailer -> readout avoided!
+0	1	3	0	G	40000	9979	9722	50.105	10021	
+0	1	3	0	A	40000	0	9701	100	10000	
+0	1	3	0	B	40000	9979	21	0.21	21	
+0	1	3	0	cSpy was 2 spamed and the readout avoided!
+0	1	3	0	Channel A had 3950 times no trailer -> readout avoided!
+0	1	3	1	G	40000	10176	1250	49.12	9824	
+0	1	3	1	A	40000	791	1231	92.09	9209	
+0	1	3	1	B	40000	9385	19	6.15	615	
+0	1	3	1	Channel A had 1912 times no trailer -> readout avoided!
+0	1	3	2	G	40000	9726	1328	51.37	10274	
+0	1	3	2	A	40000	755	1313	92.45	9245	
+0	1	3	2	B	40000	8971	15	10.29	1029	
+0	1	3	2	Channel A had 2834 times no trailer -> readout avoided!
+0	1	3	3	G	40000	10151	1360	49.245	9849	
+0	1	3	3	A	40000	760	1340	92.4	9240	
+0	1	3	3	B	40000	9391	20	6.09	609	
+0	1	3	3	Channel A had 1849 times no trailer -> readout avoided!
+0	1	3	4	G	40000	9910	1354	50.45	10090	
+0	1	3	4	A	40000	781	1341	92.19	9219	
+0	1	3	4	B	40000	9129	13	8.71	871	
+0	1	3	4	cSpy was 1 spamed and the readout avoided!
+0	1	3	4	Channel A had 2496 times no trailer -> readout avoided!
+0	1	3	5	G	40000	9849	1309	50.755	10151	
+0	1	3	5	A	40000	776	1296	92.24	9224	
+0	1	3	5	B	40000	9073	13	9.27	927	
+0	1	3	5	Channel A had 2291 times no trailer -> readout avoided!
+0	1	3	6	G	40000	10124	1301	49.38	9876	
+0	1	3	6	A	40000	780	1283	92.2	9220	
+0	1	3	6	B	40000	9344	18	6.56	656	
+0	1	3	6	cSpy was 4 spamed and the readout avoided!
+0	1	3	6	Channel A had 2147 times no trailer -> readout avoided!
+0	1	3	7	G	40000	10158	1338	49.21	9842	
+0	1	3	7	A	40000	770	1318	92.3	9230	
+0	1	3	7	B	40000	9388	20	6.12	612	
+0	1	3	7	cSpy was 2 spamed and the readout avoided!
+0	1	3	7	Channel A had 2325 times no trailer -> readout avoided!
+0	1	4	0	G	40000	9989	9541	50.055	10011	
+0	1	4	0	A	40000	0	9530	100	10000	
+0	1	4	0	B	40000	9989	11	0.11	11	
+0	1	4	0	cSpy was 1 spamed and the readout avoided!
+0	1	4	0	Channel A had 3439 times no trailer -> readout avoided!
+0	1	4	1	G	40000	10110	1326	49.45	9890	
+0	1	4	1	A	40000	752	1305	92.48	9248	
+0	1	4	1	B	40000	9358	21	6.42	642	
+0	1	4	1	Channel A had 2218 times no trailer -> readout avoided!
+0	1	4	2	G	40000	9971	1347	50.145	10029	
+0	1	4	2	A	40000	737	1332	92.63	9263	
+0	1	4	2	B	40000	9234	15	7.66	766	
+0	1	4	2	Channel A had 2351 times no trailer -> readout avoided!
+0	1	4	3	G	40000	9928	1286	50.36	10072	
+0	1	4	3	A	40000	683	1272	93.17	9317	
+0	1	4	3	B	40000	9245	14	7.55	755	
+0	1	4	3	Channel A had 2602 times no trailer -> readout avoided!
+0	1	4	4	G	40000	10211	1308	48.945	9789	
+0	1	4	4	A	40000	652	1293	93.48	9348	
+0	1	4	4	B	40000	9559	15	4.41	441	
+0	1	4	4	Channel A had 2392 times no trailer -> readout avoided!
+0	1	4	5	G	40000	10182	1290	49.09	9818	
+0	1	4	5	A	40000	691	1272	93.09	9309	
+0	1	4	5	B	40000	9491	18	5.09	509	
+0	1	4	5	cSpy was 1 spamed and the readout avoided!
+0	1	4	5	Channel A had 2253 times no trailer -> readout avoided!
+0	1	4	6	G	40000	9936	1321	50.32	10064	
+0	1	4	6	A	40000	701	1305	92.99	9299	
+0	1	4	6	B	40000	9235	16	7.65	765	
+0	1	4	6	cSpy was 1 spamed and the readout avoided!
+0	1	4	6	Channel A had 2255 times no trailer -> readout avoided!
+0	1	4	7	G	40000	10343	1320	48.285	9657	
+0	1	4	7	A	40000	777	1305	92.23	9223	
+0	1	4	7	B	40000	9566	15	4.34	434	
+0	1	4	7	cSpy was 1 spamed and the readout avoided!
+0	1	4	7	Channel A had 1916 times no trailer -> readout avoided!
+0	1	5	0	G	40000	9987	9459	50.065	10013	
+0	1	5	0	A	40000	0	9446	100	10000	
+0	1	5	0	B	40000	9987	13	0.13	13	
+0	1	5	0	Channel A had 3473 times no trailer -> readout avoided!
+0	1	5	1	G	40000	9858	1367	50.71	10142	
+0	1	5	1	A	40000	692	1343	93.08	9308	
+0	1	5	1	B	40000	9166	24	8.34	834	
+0	1	5	1	Channel A had 2253 times no trailer -> readout avoided!
+0	1	5	2	G	40000	9909	1345	50.455	10091	
+0	1	5	2	A	40000	772	1329	92.28	9228	
+0	1	5	2	B	40000	9137	16	8.63	863	
+0	1	5	2	Channel A had 2599 times no trailer -> readout avoided!
+0	1	5	3	G	40000	10115	1320	49.425	9885	
+0	1	5	3	A	40000	624	1298	93.76	9376	
+0	1	5	3	B	40000	9491	22	5.09	509	
+0	1	5	3	cSpy was 2 spamed and the readout avoided!
+0	1	5	3	Channel A had 1979 times no trailer -> readout avoided!
+0	1	5	4	G	40000	9838	1300	50.81	10162	
+0	1	5	4	A	40000	677	1289	93.23	9323	
+0	1	5	4	B	40000	9161	11	8.39	839	
+0	1	5	4	Channel A had 2871 times no trailer -> readout avoided!
+0	1	5	5	G	40000	10067	1303	49.665	9933	
+0	1	5	5	A	40000	673	1286	93.27	9327	
+0	1	5	5	B	40000	9394	17	6.06	606	
+0	1	5	5	cSpy was 1 spamed and the readout avoided!
+0	1	5	5	Channel A had 2121 times no trailer -> readout avoided!
+0	1	5	6	G	40000	9877	1297	50.615	10123	
+0	1	5	6	A	40000	648	1274	93.52	9352	
+0	1	5	6	B	40000	9229	23	7.71	771	
+0	1	5	6	Channel A had 2154 times no trailer -> readout avoided!
+0	1	5	7	G	40000	9871	1336	50.645	10129	
+0	1	5	7	A	40000	641	1317	93.59	9359	
+0	1	5	7	B	40000	9230	19	7.7	770	
+0	1	5	7	Channel A had 1945 times no trailer -> readout avoided!
+0	1	6	0	G	40000	9977	9445	50.115	10023	
+0	1	6	0	A	40000	0	9422	100	10000	
+0	1	6	0	B	40000	9977	23	0.23	23	
+0	1	6	0	cSpy was 1 spamed and the readout avoided!
+0	1	6	0	Channel A had 2653 times no trailer -> readout avoided!
+0	1	6	1	G	40000	9960	1274	50.2	10040	
+0	1	6	1	A	40000	632	1257	93.68	9368	
+0	1	6	1	B	40000	9328	17	6.72	672	
+0	1	6	1	cSpy was 2 spamed and the readout avoided!
+0	1	6	1	Channel A had 2359 times no trailer -> readout avoided!
+0	1	6	2	G	40000	10010	1328	49.95	9990	
+0	1	6	2	A	40000	724	1304	92.76	9276	
+0	1	6	2	B	40000	9286	24	7.14	714	
+0	1	6	2	cSpy was 2 spamed and the readout avoided!
+0	1	6	2	Channel A had 2429 times no trailer -> readout avoided!
+0	1	6	3	G	40000	10145	1336	49.275	9855	
+0	1	6	3	A	40000	627	1308	93.73	9373	
+0	1	6	3	B	40000	9518	28	4.82	482	
+0	1	6	3	cSpy was 3 spamed and the readout avoided!
+0	1	6	3	Channel A had 2082 times no trailer -> readout avoided!
+0	1	6	4	G	40000	10112	1324	49.44	9888	
+0	1	6	4	A	40000	650	1307	93.5	9350	
+0	1	6	4	B	40000	9462	17	5.38	538	
+0	1	6	4	cSpy was 1 spamed and the readout avoided!
+0	1	6	4	Channel A had 2183 times no trailer -> readout avoided!
+0	1	6	5	G	40000	9948	1319	50.26	10052	
+0	1	6	5	A	40000	666	1293	93.34	9334	
+0	1	6	5	B	40000	9282	26	7.18	718	
+0	1	6	5	cSpy was 3 spamed and the readout avoided!
+0	1	6	5	Channel A had 2461 times no trailer -> readout avoided!
+0	1	6	6	G	40000	10142	1342	49.29	9858	
+0	1	6	6	A	40000	637	1315	93.63	9363	
+0	1	6	6	B	40000	9505	27	4.95	495	
+0	1	6	6	Channel A had 2079 times no trailer -> readout avoided!
+0	1	6	7	G	40000	10085	1311	49.575	9915	
+0	1	6	7	A	40000	641	1284	93.59	9359	
+0	1	6	7	B	40000	9444	27	5.56	556	
+0	1	6	7	Channel A had 2084 times no trailer -> readout avoided!
+0	1	7	0	G	40000	9978	9426	50.11	10022	
+0	1	7	0	A	40000	0	9404	100	10000	
+0	1	7	0	B	40000	9978	22	0.22	22	
+0	1	7	0	cSpy was 1 spamed and the readout avoided!
+0	1	7	0	Channel A had 3201 times no trailer -> readout avoided!
+0	1	7	1	G	40000	9846	1279	50.77	10154	
+0	1	7	1	A	40000	629	1260	93.71	9371	
+0	1	7	1	B	40000	9217	19	7.83	783	
+0	1	7	1	cSpy was 2 spamed and the readout avoided!
+0	1	7	1	Channel A had 2294 times no trailer -> readout avoided!
+0	1	7	2	G	40000	9770	1350	51.15	10230	
+0	1	7	2	A	40000	644	1327	93.56	9356	
+0	1	7	2	B	40000	9126	23	8.74	874	
+0	1	7	2	cSpy was 1 spamed and the readout avoided!
+0	1	7	2	Channel A had 2091 times no trailer -> readout avoided!
+0	1	7	3	G	40000	10124	1284	49.38	9876	
+0	1	7	3	A	40000	632	1259	93.68	9368	
+0	1	7	3	B	40000	9492	25	5.08	508	
+0	1	7	3	Channel A had 2055 times no trailer -> readout avoided!
+0	1	7	4	G	40000	9794	1305	51.03	10206	
+0	1	7	4	A	40000	587	1279	94.13	9413	
+0	1	7	4	B	40000	9207	26	7.93	793	
+0	1	7	4	cSpy was 1 spamed and the readout avoided!
+0	1	7	4	Channel A had 1813 times no trailer -> readout avoided!
+0	1	7	5	G	40000	9766	1332	51.17	10234	
+0	1	7	5	A	40000	606	1307	93.94	9394	
+0	1	7	5	B	40000	9160	25	8.4	840	
+0	1	7	5	Channel A had 2292 times no trailer -> readout avoided!
+0	1	7	6	G	40000	9829	1293	50.855	10171	
+0	1	7	6	A	40000	582	1269	94.18	9418	
+0	1	7	6	B	40000	9247	24	7.53	753	
+0	1	7	6	cSpy was 1 spamed and the readout avoided!
+0	1	7	6	Channel A had 2296 times no trailer -> readout avoided!
+0	1	7	7	G	40000	10141	1369	49.295	9859	
+0	1	7	7	A	40000	606	1351	93.94	9394	
+0	1	7	7	B	40000	9535	18	4.65	465	
+0	1	7	7	Channel A had 1777 times no trailer -> readout avoided!
+1	0	0	0	G	40000	9953	5285	50.235	10047	
+1	0	0	0	A	40000	0	5238	100	10000	
+1	0	0	0	B	40000	9953	47	0.47	47	
+1	0	0	0	cSpy was 59 spamed and the readout avoided!
+1	0	0	0	Channel A had 8281 times no trailer -> readout avoided!
+1	0	0	1	G	40000	9962	6639	50.19	10038	
+1	0	0	1	A	40000	0	6601	100	10000	
+1	0	0	1	B	40000	9962	38	0.38	38	
+1	0	0	1	cSpy was 12 spamed and the readout avoided!
+1	0	0	1	Channel A had 11608 times no trailer -> readout avoided!
+1	0	0	2	G	40000	9973	7189	50.135	10027	
+1	0	0	2	A	40000	0	7162	100	10000	
+1	0	0	2	B	40000	9973	27	0.27	27	
+1	0	0	2	cSpy was 15 spamed and the readout avoided!
+1	0	0	2	Channel A had 11065 times no trailer -> readout avoided!
+1	0	0	3	G	40000	9969	7259	50.155	10031	
+1	0	0	3	A	40000	0	7228	100	10000	
+1	0	0	3	B	40000	9969	31	0.31	31	
+1	0	0	3	cSpy was 24 spamed and the readout avoided!
+1	0	0	3	Channel A had 11778 times no trailer -> readout avoided!
+1	0	0	4	G	40000	9962	6594	50.19	10038	
+1	0	0	4	A	40000	0	6556	100	10000	
+1	0	0	4	B	40000	9962	38	0.38	38	
+1	0	0	4	cSpy was 21 spamed and the readout avoided!
+1	0	0	4	Channel A had 11331 times no trailer -> readout avoided!
+1	0	0	5	G	40000	9966	7454	50.17	10034	
+1	0	0	5	A	40000	0	7420	100	10000	
+1	0	0	5	B	40000	9966	34	0.34	34	
+1	0	0	5	cSpy was 11 spamed and the readout avoided!
+1	0	0	5	Channel A had 12557 times no trailer -> readout avoided!
+1	0	0	6	G	40000	9967	7151	50.165	10033	
+1	0	0	6	A	40000	0	7118	100	10000	
+1	0	0	6	B	40000	9967	33	0.33	33	
+1	0	0	6	cSpy was 15 spamed and the readout avoided!
+1	0	0	6	Channel A had 11505 times no trailer -> readout avoided!
+1	0	0	7	G	40000	9969	7275	50.155	10031	
+1	0	0	7	A	40000	0	7244	100	10000	
+1	0	0	7	B	40000	9969	31	0.31	31	
+1	0	0	7	cSpy was 18 spamed and the readout avoided!
+1	0	0	7	Channel A had 11159 times no trailer -> readout avoided!
+1	0	1	0	G	40000	9957	7120	50.215	10043	
+1	0	1	0	A	40000	0	7077	100	10000	
+1	0	1	0	B	40000	9957	43	0.43	43	
+1	0	1	0	cSpy was 32 spamed and the readout avoided!
+1	0	1	0	Channel A had 9253 times no trailer -> readout avoided!
+1	0	1	1	G	40000	9947	5186	50.265	10053	
+1	0	1	1	A	40000	0	5133	100	10000	
+1	0	1	1	B	40000	9947	53	0.53	53	
+1	0	1	2	G	40000	9935	5171	50.325	10065	
+1	0	1	2	A	40000	0	5106	100	10000	
+1	0	1	2	B	40000	9935	65	0.65	65	
+1	0	1	3	G	40000	9949	5100	50.255	10051	
+1	0	1	3	A	40000	0	5049	100	10000	
+1	0	1	3	B	40000	9949	51	0.51	51	
+1	0	1	4	G	40000	9953	5132	50.235	10047	
+1	0	1	4	A	40000	0	5085	100	10000	
+1	0	1	4	B	40000	9953	47	0.47	47	
+1	0	1	5	G	40000	9962	5141	50.19	10038	
+1	0	1	5	A	40000	0	5103	100	10000	
+1	0	1	5	B	40000	9962	38	0.38	38	
+1	0	1	6	G	40000	9953	5094	50.235	10047	
+1	0	1	6	A	40000	0	5047	100	10000	
+1	0	1	6	B	40000	9953	47	0.47	47	
+1	0	1	7	G	40000	9970	5145	50.15	10030	
+1	0	1	7	A	40000	0	5115	100	10000	
+1	0	1	7	B	40000	9970	30	0.3	30	
+1	0	2	0	G	40000	9962	7095	50.19	10038	
+1	0	2	0	A	40000	0	7057	100	10000	
+1	0	2	0	B	40000	9962	38	0.38	38	
+1	0	2	0	cSpy was 30 spamed and the readout avoided!
+1	0	2	0	Channel A had 8883 times no trailer -> readout avoided!
+1	0	2	1	G	40000	9964	5126	50.18	10036	
+1	0	2	1	A	40000	0	5090	100	10000	
+1	0	2	1	B	40000	9964	36	0.36	36	
+1	0	2	2	G	40000	9968	5113	50.16	10032	
+1	0	2	2	A	40000	0	5081	100	10000	
+1	0	2	2	B	40000	9968	32	0.32	32	
+1	0	2	3	G	40000	9959	5134	50.205	10041	
+1	0	2	3	A	40000	0	5093	100	10000	
+1	0	2	3	B	40000	9959	41	0.41	41	
+1	0	2	3	Channel A had 36 times no trailer -> readout avoided!
+1	0	2	4	G	40000	9967	5144	50.165	10033	
+1	0	2	4	A	40000	0	5111	100	10000	
+1	0	2	4	B	40000	9967	33	0.33	33	
+1	0	2	5	G	40000	9964	5059	50.18	10036	
+1	0	2	5	A	40000	0	5023	100	10000	
+1	0	2	5	B	40000	9964	36	0.36	36	
+1	0	2	6	G	40000	9971	5100	50.145	10029	
+1	0	2	6	A	40000	0	5071	100	10000	
+1	0	2	6	B	40000	9971	29	0.29	29	
+1	0	2	7	G	40000	9952	5134	50.24	10048	
+1	0	2	7	A	40000	0	5086	100	10000	
+1	0	2	7	B	40000	9952	48	0.48	48	
+1	0	3	0	G	40000	9954	7436	50.23	10046	
+1	0	3	0	A	40000	0	7390	100	10000	
+1	0	3	0	B	40000	9954	46	0.46	46	
+1	0	3	0	cSpy was 28 spamed and the readout avoided!
+1	0	3	0	Channel A had 9251 times no trailer -> readout avoided!
+1	0	3	1	G	40000	9952	5080	50.24	10048	
+1	0	3	1	A	40000	0	5032	100	10000	
+1	0	3	1	B	40000	9952	48	0.48	48	
+1	0	3	2	G	40000	9958	5021	50.21	10042	
+1	0	3	2	A	40000	0	4979	100	10000	
+1	0	3	2	B	40000	9958	42	0.42	42	
+1	0	3	3	G	40000	9947	5076	50.265	10053	
+1	0	3	3	A	40000	0	5023	100	10000	
+1	0	3	3	B	40000	9947	53	0.53	53	
+1	0	3	4	G	40000	9961	5046	50.195	10039	
+1	0	3	4	A	40000	0	5007	100	10000	
+1	0	3	4	B	40000	9961	39	0.39	39	
+1	0	3	5	G	40000	9963	4992	50.185	10037	
+1	0	3	5	A	40000	0	4955	100	10000	
+1	0	3	5	B	40000	9963	37	0.37	37	
+1	0	3	6	G	40000	9946	5021	50.27	10054	
+1	0	3	6	A	40000	0	4967	100	10000	
+1	0	3	6	B	40000	9946	54	0.54	54	
+1	0	3	7	G	40000	9948	5029	50.26	10052	
+1	0	3	7	A	40000	0	4977	100	10000	
+1	0	3	7	B	40000	9948	52	0.52	52	
+1	0	4	0	G	40000	9954	7478	50.23	10046	
+1	0	4	0	A	40000	0	7432	100	10000	
+1	0	4	0	B	40000	9954	46	0.46	46	
+1	0	4	0	cSpy was 21 spamed and the readout avoided!
+1	0	4	0	Channel A had 9221 times no trailer -> readout avoided!
+1	0	4	1	G	40000	9952	4848	50.24	10048	
+1	0	4	1	A	40000	0	4800	100	10000	
+1	0	4	1	B	40000	9952	48	0.48	48	
+1	0	4	2	G	40000	9956	4940	50.22	10044	
+1	0	4	2	A	40000	0	4896	100	10000	
+1	0	4	2	B	40000	9956	44	0.44	44	
+1	0	4	3	G	40000	9940	4798	50.3	10060	
+1	0	4	3	A	40000	0	4738	100	10000	
+1	0	4	3	B	40000	9940	60	0.6	60	
+1	0	4	4	G	40000	9959	4923	50.205	10041	
+1	0	4	4	A	40000	0	4883	100	10000	
+1	0	4	4	B	40000	9959	40	0.41	41	
+1	0	4	5	G	40000	9937	4918	50.315	10063	
+1	0	4	5	A	40000	0	4855	100	10000	
+1	0	4	5	B	40000	9937	63	0.63	63	
+1	0	4	6	G	40000	9947	4982	50.265	10053	
+1	0	4	6	A	40000	0	4929	100	10000	
+1	0	4	6	B	40000	9947	53	0.53	53	
+1	0	4	7	G	40000	9950	4882	50.25	10050	
+1	0	4	7	A	40000	0	4833	100	10000	
+1	0	4	7	B	40000	9950	49	0.5	50	
+1	0	4	7	Channel B had 34 times no trailer -> readout avoided!
+1	0	5	0	G	40000	9929	8191	50.355	10071	
+1	0	5	0	A	40000	0	8120	100	10000	
+1	0	5	0	B	40000	9929	71	0.71	71	
+1	0	5	0	cSpy was 25 spamed and the readout avoided!
+1	0	5	0	Channel A had 8675 times no trailer -> readout avoided!
+1	0	5	1	G	40000	9943	4847	50.285	10057	
+1	0	5	1	A	40000	0	4790	100	10000	
+1	0	5	1	B	40000	9943	57	0.57	57	
+1	0	5	2	G	40000	9944	4928	50.28	10056	
+1	0	5	2	A	40000	0	4872	100	10000	
+1	0	5	2	B	40000	9944	56	0.56	56	
+1	0	5	3	G	40000	9951	4771	50.245	10049	
+1	0	5	3	A	40000	0	4722	100	10000	
+1	0	5	3	B	40000	9951	49	0.49	49	
+1	0	5	4	G	40000	9949	4934	50.255	10051	
+1	0	5	4	A	40000	0	4883	100	10000	
+1	0	5	4	B	40000	9949	51	0.51	51	
+1	0	5	5	G	40000	9953	4874	50.235	10047	
+1	0	5	5	A	40000	0	4827	100	10000	
+1	0	5	5	B	40000	9953	47	0.47	47	
+1	0	5	6	G	40000	9961	4885	50.195	10039	
+1	0	5	6	A	40000	0	4846	100	10000	
+1	0	5	6	B	40000	9961	39	0.39	39	
+1	0	5	7	G	40000	9957	4849	50.215	10043	
+1	0	5	7	A	40000	0	4807	100	10000	
+1	0	5	7	B	40000	9957	42	0.43	43	
+1	0	5	7	Channel B had 34 times no trailer -> readout avoided!
+1	0	6	0	G	40000	9952	7821	50.24	10048	
+1	0	6	0	A	40000	0	7773	100	10000	
+1	0	6	0	B	40000	9952	48	0.48	48	
+1	0	6	0	cSpy was 16 spamed and the readout avoided!
+1	0	6	0	Channel A had 8131 times no trailer -> readout avoided!
+1	0	6	1	G	40000	9958	4794	50.21	10042	
+1	0	6	1	A	40000	0	4752	100	10000	
+1	0	6	1	B	40000	9958	42	0.42	42	
+1	0	6	2	G	40000	9942	4735	50.29	10058	
+1	0	6	2	A	40000	0	4677	100	10000	
+1	0	6	2	B	40000	9942	58	0.58	58	
+1	0	6	3	G	40000	9966	4738	50.17	10034	
+1	0	6	3	A	40000	0	4704	100	10000	
+1	0	6	3	B	40000	9966	34	0.34	34	
+1	0	6	4	G	40000	9955	4780	50.225	10045	
+1	0	6	4	A	40000	0	4735	100	10000	
+1	0	6	4	B	40000	9955	45	0.45	45	
+1	0	6	5	G	40000	9951	4807	50.245	10049	
+1	0	6	5	A	40000	0	4758	100	10000	
+1	0	6	5	B	40000	9951	49	0.49	49	
+1	0	6	6	G	40000	9971	4787	50.145	10029	
+1	0	6	6	A	40000	0	4758	100	10000	
+1	0	6	6	B	40000	9971	29	0.29	29	
+1	0	6	7	G	40000	9955	4761	50.225	10045	
+1	0	6	7	A	40000	0	4716	100	10000	
+1	0	6	7	B	40000	9955	45	0.45	45	
+1	0	7	0	G	40000	9942	8189	50.29	10058	
+1	0	7	0	A	40000	0	8131	100	10000	
+1	0	7	0	B	40000	9942	58	0.58	58	
+1	0	7	0	cSpy was 26 spamed and the readout avoided!
+1	0	7	0	Channel A had 8610 times no trailer -> readout avoided!
+1	0	7	1	G	40000	9947	4698	50.265	10053	
+1	0	7	1	A	40000	0	4646	100	10000	
+1	0	7	1	B	40000	9947	52	0.53	53	
+1	0	7	1	Channel B had 34 times no trailer -> readout avoided!
+1	0	7	2	G	40000	9953	4740	50.235	10047	
+1	0	7	2	A	40000	0	4693	100	10000	
+1	0	7	2	B	40000	9953	47	0.47	47	
+1	0	7	3	G	40000	9951	4678	50.245	10049	
+1	0	7	3	A	40000	0	4629	100	10000	
+1	0	7	3	B	40000	9951	49	0.49	49	
+1	0	7	4	G	40000	9957	4865	50.215	10043	
+1	0	7	4	A	40000	0	4822	100	10000	
+1	0	7	4	B	40000	9957	43	0.43	43	
+1	0	7	5	G	40000	9957	4735	50.215	10043	
+1	0	7	5	A	40000	0	4692	100	10000	
+1	0	7	5	B	40000	9957	43	0.43	43	
+1	0	7	6	G	40000	9947	4776	50.265	10053	
+1	0	7	6	A	40000	0	4724	100	10000	
+1	0	7	6	B	40000	9947	52	0.53	53	
+1	0	7	6	Channel B had 34 times no trailer -> readout avoided!
+1	0	7	7	G	40000	9944	4704	50.28	10056	
+1	0	7	7	A	40000	0	4648	100	10000	
+1	0	7	7	B	40000	9944	56	0.56	56	
+1	1	0	0	G	40000	9929	8480	50.355	10071	
+1	1	0	0	A	40000	0	8409	100	10000	
+1	1	0	0	B	40000	9929	71	0.71	71	
+1	1	0	0	Channel A had 271 times no trailer -> readout avoided!
+1	1	0	1	G	40000	9936	7090	50.32	10064	
+1	1	0	1	A	40000	0	7026	100	10000	
+1	1	0	1	B	40000	9936	64	0.64	64	
+1	1	0	1	Channel A had 171 times no trailer -> readout avoided!
+1	1	0	2	G	40000	9934	7257	50.33	10066	
+1	1	0	2	A	40000	0	7191	100	10000	
+1	1	0	2	B	40000	9934	66	0.66	66	
+1	1	0	3	G	40000	9940	7064	50.3	10060	
+1	1	0	3	A	40000	0	7004	100	10000	
+1	1	0	3	B	40000	9940	60	0.6	60	
+1	1	0	4	G	40000	9935	7164	50.325	10065	
+1	1	0	4	A	40000	0	7099	100	10000	
+1	1	0	4	B	40000	9935	65	0.65	65	
+1	1	0	4	cSpy was 1 spamed and the readout avoided!
+1	1	0	4	Channel A had 33 times no trailer -> readout avoided!
+1	1	0	5	G	40000	9943	6977	50.285	10057	
+1	1	0	5	A	40000	0	6920	100	10000	
+1	1	0	5	B	40000	9943	57	0.57	57	
+1	1	0	5	Channel A had 34 times no trailer -> readout avoided!
+1	1	0	6	G	40000	9933	7150	50.335	10067	
+1	1	0	6	A	40000	0	7084	100	10000	
+1	1	0	6	B	40000	9933	66	0.67	67	
+1	1	0	6	cSpy was 2 spamed and the readout avoided!
+1	1	0	6	Channel A had 101 times no trailer -> readout avoided!
+1	1	0	7	G	40000	9940	7334	50.3	10060	
+1	1	0	7	A	40000	0	7274	100	10000	
+1	1	0	7	B	40000	9940	60	0.6	60	
+1	1	0	7	cSpy was 3 spamed and the readout avoided!
+1	1	0	7	Channel A had 136 times no trailer -> readout avoided!
+1	1	1	0	G	40000	9944	9239	50.28	10056	
+1	1	1	0	A	40000	0	9183	100	10000	
+1	1	1	0	B	40000	9944	56	0.56	56	
+1	1	1	0	Channel A had 1531 times no trailer -> readout avoided!
+1	1	1	1	G	40000	10103	1268	49.485	9897	
+1	1	1	1	A	40000	160	1211	98.4	9840	
+1	1	1	1	B	40000	9943	57	0.57	57	
+1	1	1	1	cSpy was 1 spamed and the readout avoided!
+1	1	1	1	Channel A had 616 times no trailer -> readout avoided!
+1	1	1	2	G	40000	9898	1213	50.51	10102	
+1	1	1	2	A	40000	165	1163	98.35	9835	
+1	1	1	2	B	40000	9733	50	2.67	267	
+1	1	1	2	cSpy was 1 spamed and the readout avoided!
+1	1	1	2	Channel A had 959 times no trailer -> readout avoided!
+1	1	1	3	G	40000	9973	1209	50.135	10027	
+1	1	1	3	A	40000	185	1162	98.15	9815	
+1	1	1	3	B	40000	9788	47	2.12	212	
+1	1	1	3	Channel A had 924 times no trailer -> readout avoided!
+1	1	1	4	G	40000	10059	1246	49.705	9941	
+1	1	1	4	A	40000	161	1192	98.39	9839	
+1	1	1	4	B	40000	9898	54	1.02	102	
+1	1	1	4	Channel A had 651 times no trailer -> readout avoided!
+1	1	1	5	G	40000	9968	1236	50.16	10032	
+1	1	1	5	A	40000	172	1178	98.28	9828	
+1	1	1	5	B	40000	9796	58	2.04	204	
+1	1	1	5	Channel A had 752 times no trailer -> readout avoided!
+1	1	1	6	G	40000	9995	1247	50.025	10005	
+1	1	1	6	A	40000	189	1191	98.11	9811	
+1	1	1	6	B	40000	9806	56	1.94	194	
+1	1	1	6	cSpy was 1 spamed and the readout avoided!
+1	1	1	6	Channel A had 687 times no trailer -> readout avoided!
+1	1	1	7	G	40000	9898	1297	50.51	10102	
+1	1	1	7	A	40000	173	1250	98.27	9827	
+1	1	1	7	B	40000	9725	47	2.75	275	
+1	1	1	7	Channel A had 887 times no trailer -> readout avoided!
+1	1	2	0	G	40000	9941	9240	50.295	10059	
+1	1	2	0	A	40000	0	9181	100	10000	
+1	1	2	0	B	40000	9941	59	0.59	59	
+1	1	2	0	Channel A had 1667 times no trailer -> readout avoided!
+1	1	2	1	G	40000	9869	1284	50.655	10131	
+1	1	2	1	A	40000	197	1232	98.03	9803	
+1	1	2	1	B	40000	9672	52	3.28	328	
+1	1	2	1	Channel A had 1199 times no trailer -> readout avoided!
+1	1	2	2	G	40000	10129	1321	49.355	9871	
+1	1	2	2	A	40000	175	1275	98.25	9825	
+1	1	2	2	B	40000	9954	46	0.46	46	
+1	1	2	2	Channel A had 547 times no trailer -> readout avoided!
+1	1	2	3	G	40000	9986	1221	50.07	10014	
+1	1	2	3	A	40000	164	1179	98.36	9836	
+1	1	2	3	B	40000	9822	42	1.78	178	
+1	1	2	3	Channel A had 685 times no trailer -> readout avoided!
+1	1	2	4	G	40000	10054	1239	49.73	9946	
+1	1	2	4	A	40000	194	1190	98.06	9806	
+1	1	2	4	B	40000	9860	49	1.4	140	
+1	1	2	4	Channel A had 722 times no trailer -> readout avoided!
+1	1	2	5	G	40000	9957	1280	50.215	10043	
+1	1	2	5	A	40000	189	1208	98.11	9811	
+1	1	2	5	B	40000	9768	72	2.32	232	
+1	1	2	5	cSpy was 1 spamed and the readout avoided!
+1	1	2	5	Channel A had 993 times no trailer -> readout avoided!
+1	1	2	6	G	40000	10048	1157	49.76	9952	
+1	1	2	6	A	40000	172	1098	98.28	9828	
+1	1	2	6	B	40000	9876	59	1.24	124	
+1	1	2	6	Channel A had 652 times no trailer -> readout avoided!
+1	1	2	6	Channel B had 34 times no trailer -> readout avoided!
+1	1	2	7	G	40000	10005	1203	49.975	9995	
+1	1	2	7	A	40000	185	1153	98.15	9815	
+1	1	2	7	B	40000	9820	50	1.8	180	
+1	1	2	7	Channel A had 1061 times no trailer -> readout avoided!
+1	1	3	0	G	40000	9931	9163	50.345	10069	
+1	1	3	0	A	40000	0	9094	100	10000	
+1	1	3	0	B	40000	9931	69	0.69	69	
+1	1	3	0	cSpy was 1 spamed and the readout avoided!
+1	1	3	0	Channel A had 1292 times no trailer -> readout avoided!
+1	1	3	1	G	40000	10096	1227	49.52	9904	
+1	1	3	1	A	40000	152	1171	98.48	9848	
+1	1	3	1	B	40000	9944	56	0.56	56	
+1	1	3	1	Channel A had 651 times no trailer -> readout avoided!

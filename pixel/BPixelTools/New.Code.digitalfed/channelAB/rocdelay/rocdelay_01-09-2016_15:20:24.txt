@@ -1,0 +1,41 @@
+#the gain was set to: 2	the bias was set to: 30	the tbmplldelay was set to: 0
+#Sent triggers per delay setting: 100000	and with a frequency [Hz] of: 40000
+#Delay token Ins by 6.25ns	delay Head/Trail by 6.25ns	delay port 1	delay port 0	Frequency	good words	tot error	error in %	bad or missed events (tbm header/trailer not correct)
+0	0	0	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	0	1	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	0	2	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	0	3	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	0	4	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	0	5	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	0	6	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	0	7	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	1	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	1	1	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	1	2	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	1	3	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	1	4	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	1	5	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	1	6	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	1	7	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	2	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	2	1	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	2	2	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	2	3	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	2	4	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	2	5	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	2	6	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	2	7	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	3	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	3	1	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	3	2	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	3	3	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	3	4	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	3	5	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	3	6	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	3	7	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	4	0	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	4	1	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	4	2	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	4	3	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	4	4	spyfifo has been spamed more than a hundred times, burst canceled
+0	0	4	5	spyfifo has been spamed more than a hundred times, burst canceled

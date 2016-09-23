@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<HwDescription>
+    <AMC13>
+        <connection id="T1" uri="chtcp-2.0://cmspixel2.physik.uzh.ch:10203?target=bpixamc13T1:50001" address_table="file://settings/AMC13XG_T1.xml" />
+        <connection id="T2" uri="chtcp-2.0://cmspixel2.physik.uzh.ch:10203?target=bpixamc13T2:50001" address_table="file://settings/AMC13XG_T2.xml" />
+        <AMCmask enable="1,2,3,4,5,6,7,8,9,10,11,12"/>
+	<!--comma separated list of all slots to which AMC13 signal is distributed-->
+        <!--This is used to send a calibration Trigger via the AMC13s internal BGO mechanism, 0x2c is the command configured as BGO15 
+             on the TTCci - repeat is obvious, prescale is in orbits, the bx is selected such that it occurs 98 BX before the local
+             L1A which is periodic at BX500 every orbit-->
+        <!-- for the DEV lab setup in B186, the bx has to be 381 for the BU clock source and 380 for the TTCci as clock source -->
+        <BGO command="0x2c" repeat="1" prescale="1" bx="374" />
+        <!--BGO command="0x2c" repeat="1" prescale="1" bx="374" /-->
+	<!--BGO command="0x2e" repeat="0" prescale="0" bx="0" /-->
+        <!-- Local enables Local L1A, mode 0 means a trigger every orbit at BX500, rate is 1 for every orbit and burst is 1 
+             for 1 trigger when sending burst (equivalent to single trigger -->
+        <Trigger local="1" mode="1" rate="1000" burst="1" rules="0" /> 
+        <!--Trigger local="1" mode="0" rate="1000" burst="1" rules="0" /-->
+        <!--<Register tounge="T1" name="test.test">0</Register>-->
+        <TTCSimulator>0</TTCSimulator>
+    </AMC13>
+    <PixFED Id="0" boardType="CTA">
+        <connection id="board0" uri="chtcp-2.0://cmspixel2.physik.uzh.ch:10203?target=bpixfed1:50001" address_table="file://settings/address_table.xml" />
+
+        <!-- ACQUISITION MODE & CALIBRATION MODE & DATA TYPE -->
+        <!--1: TBM fifo, 2: Slink FIFO, 4: FEROL-->
+        <Register name="pixfed_ctrl_regs.acq_ctrl.acq_mode">2</Register>
+        <Register name="pixfed_ctrl_regs.acq_ctrl.calib_mode"> 0 </Register>
+        <!--this is 0-indexed so 9 will correspond to 10 events-->
+        <Register name="pixfed_ctrl_regs.acq_ctrl.calib_mode_NEvents"> 1 </Register>
+        <!--0: real data, 1: constants after TBM fifo, 2: pattern before TBM fifo-->
+        <Register name="pixfed_ctrl_regs.data_type">0</Register>
+
+        <!--SLINK HEADER & TRAILER-->
+        <Register name="pixfed_ctrl_regs.slink_ctrl.privateEvtNb">0x01</Register>
+        <Register name="pixfed_ctrl_regs.slink_ctrl.slinkFormatH_source_id">0x01</Register>
+        <Register name="pixfed_ctrl_regs.slink_ctrl.slinkFormatH_FOV">0xe</Register>
+        <Register name="pixfed_ctrl_regs.slink_ctrl.slinkFormatH_Evt_ty">0xa</Register>
+        <Register name="pixfed_ctrl_regs.slink_ctrl.slinkFormatH_Evt_stat">0xf</Register>
+
+        <!-- TBM MASK -->
+	<!-- Channel enable bits: 0: enabled, 1: disabled-->
+	<!-- Example: Enable 2 channels beloning to fiber 1:  TBM_MASK_1 0xFFFFFFFC-->
+	<!-- Example: Enable 2 channels beloning to fiber 2:  TBM_MASK_1 0xFFFFFFF3-->
+	<!-- Example: Enable 2 channels beloning to fiber 3:  TBM_MASK_1 0xFFFFFFCF-->
+	<!-- Example: Enable 2 channels beloning to fiber 24: TBM_MASK_2 0x00003FFF-->
+        <Register name="pixfed_ctrl_regs.TBM_MASK_1">0xFFFFFCFF</Register> <!--for fibers 1-16, channels 1-32-->
+        <Register name="pixfed_ctrl_regs.TBM_MASK_2">0x0000FFFF</Register> <!--for fibers 17-24, channels 33-48-->
+        <Register name="pixfed_ctrl_regs.tbm_trailer_status_mask">0x00</Register>
+        <!--<Register name="pixfed_ctrl_regs.PACKET_NB">10</Register>-->
+
+        <!--TTS CONFIG-->
+	<!-- to enable or disable timeout check & evnt cnt check: 0 disable, 1 enable -->
+        <Register name="pixfed_ctrl_regs.tts.timeout_check_valid"> 1 </Register>
+        <Register name="pixfed_ctrl_regs.tts.event_cnt_check_valid"> 1 </Register>
+        <!--<Register name="pixfed_ctrl_regs.tts.timeout_value"> 255 </Register>-->
+	<!-- configure timeout threshold for TBM channels (FED channels) -->
+        <Register name="pixfed_ctrl_regs.tts.evt_timeout_value.tbm_ch_02"> 255 </Register>
+        <Register name="pixfed_ctrl_regs.tts.evt_timeout_value.tbm_ch_03"> 255 </Register>
+	<!-- OOS thresholds -->
+        <Register name="pixfed_ctrl_regs.tts.evt_err_nb_oos_thresh"> 255</Register>
+        <Register name="pixfed_ctrl_regs.tts.timeout_nb_oos_thresh"> 255 </Register>
+        <Register name="pixfed_ctrl_regs.tts.bc0_ec0_polar"> 0 </Register>
+	<!-- set to 1 to force TTS state ready -->
+        <Register name="pixfed_ctrl_regs.tts.force_RDY"> 1 </Register>
+
+	<!-- mask to filter error conditions, 0 filters everything, 0xFF lets everything through -->
+        <!--Mask operation for the TBM trailer (STATUS1) STATUS1(7:0) = [NoTokenPass - ResetTBM - ResetROC - SyncError - SyncTrigger - ClrTrigCnt - CalTrig - Stackful] Masked or not with trailer_status_mask1[7:0]-->
+        <Register name="pixfed_ctrl_regs.tbm_trailer_status_mask"> 0xFF </Register>
+        <!--Mask operation for the TBM trailer STATUS2 or ERR_BITS STATUS2(2:0) = [WrongNbOfROCs - AutoResetSent - PKAMReseSent] Masked or not with trailer_status_mask2(2:0)-->
+        <Register name="pixfed_ctrl_regs.tbm_trailer_status_mask2"> 1 </Register>
+
+        <!--CLOCK-->
+        <!--Used to set the CLK input to the TTC clock from the BP - 3 is XTAL, 0 is BP-->
+        <Register name="ctrl.ttc_xpoint_A_out3">0</Register>
+        <!--<Register name="ctrl.mgt_xpoint_out1">3 </Register>-->
+        <!--2 to have 156 MHz clock (obligatory for 10G sling), 3 for 125Mhz clock for 5g on SLink -->
+        <Register name="ctrl.mgt_xpoint_out1">3 </Register>
+
+        <!-- FITELS -->
+        <Fitel_Files path="./settings/" />
+	<!--Comma separated list of fibers to be enabled at Fitel receiver-->
+        <Fitel FMC="0" Id="1" file="FMCFITEL.txt" Enable="5,6" /> <!--upper MPO connector-->
+        <Fitel FMC="0" Id="0" file="FMCFITEL.txt" Enable="" /><!--lower MPO connector-->
+    </PixFED>
+</HwDescription>
+
+<Settings>
+    <!-- 0 indexed -->
+    <!--Select fiber to be shown in spy FIFO (note: only one fiber can be selected at a time), zero indexed!-->
+    <Setting name="ChannelOfInterest">4</Setting>
+    <!-- 0 indexed -->
+    <!--ROC for which the readback data is recorded-->
+    <Setting name="ROCOfInterest">1</Setting>
+    <Setting name="BlockSize">1024</Setting>
+    <!--if set to 0, loop will run forever-->
+    <Setting name="NAcq">0</Setting>
+</Settings>

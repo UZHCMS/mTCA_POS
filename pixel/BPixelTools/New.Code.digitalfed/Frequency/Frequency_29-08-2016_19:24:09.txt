@@ -1,0 +1,2 @@
+#Sent triggers per frequency: 70000
+#Frequency [Hz]	correct transmitted H+T		error rate [%]	uncertainty [%]	bad or missed events	error count	missing headers	missing trailers	flipped H/T	event nr errors	tbm missed trigger	unknown errors	event nr resets
