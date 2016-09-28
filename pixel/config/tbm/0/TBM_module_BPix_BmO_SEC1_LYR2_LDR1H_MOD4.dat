@@ -9,6 +9,6 @@ TBMADisablePKAMCounter: 1
 TBMBDisablePKAMCounter: 1
 TBMAPKAMCount: 5
 TBMBPKAMCount: 5
-TBMPLLDelay: 196
-TBMADelay: 94
-TBMBDelay: 94
+TBMPLLDelay: 232
+TBMADelay: 228
+TBMBDelay: 228

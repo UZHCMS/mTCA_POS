@@ -6,7 +6,7 @@
 #   POS_LOG_DIR, where the log files will be kept,
 #   PIXELCONFIGURATIONBASE, where the config files (aliases,configurations.txt, etc.) are
 export ROOTSYS=/home/cmspixel/root/root
-export BUILD_HOME=/home/cmspixel/TriDAS
+export BUILD_HOME=/home/cmspixel/TriDAS_Malte/mTCA_POS
 export BUILD_HOME_FEC=/home/cmspixel/TriDAS
 export POS_OUTPUT_DIRS=$BUILD_HOME/pixel/PixelRun/Runs 
 export POS_LOG_DIR=$BUILD_HOME/pixel/PixelRun/Logs

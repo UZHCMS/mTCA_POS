@@ -1,7 +1,7 @@
 Mode: POHBias
 Parameters:
 ChannelMapThreshold 0.1
-POHGain -1 
+POHGain 0
 ScanMin 0
 ScanNSteps 32
 ScanStepSize 1

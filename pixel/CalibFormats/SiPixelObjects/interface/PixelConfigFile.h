@@ -183,17 +183,19 @@ namespace pos{
       //FIXME 
 
       static int counter=0;
-
+      std::cout << std::endl << "Malte: counter = " << counter << std::endl;
       if(counter!=0)
       	{
           while(counter!=0)
 	    {
               std::cout << __LINE__ << "]\t[PixelConfigFile::getConfig()]\t\t\t\t    Waiting for other thread to complete reading"<<std::endl;
-              ::sleep(1);
+              //sleep(1);
+              std::cout << "Malte: I am still here" << std::endl;
+              usleep(10);
             }
+          std::cout << "Malte: going to return configs" << std::endl;
           return configs;
       	}
-      
       counter++;
 
       static std::string directory;

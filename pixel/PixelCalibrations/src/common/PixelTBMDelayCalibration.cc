@@ -11,6 +11,7 @@ PixelTBMDelayCalibration::PixelTBMDelayCalibration(const PixelSupervisorConfigur
 }
 
 void PixelTBMDelayCalibration::beginCalibration() {
+  cout << "Malte: PixelTBMDelayCalibration::beginCalibration()" << endl;
   PixelCalibConfiguration* tempCalibObject = dynamic_cast<PixelCalibConfiguration*>(theCalibObject_);
   assert(tempCalibObject != 0);
 

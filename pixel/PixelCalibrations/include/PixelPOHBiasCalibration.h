@@ -15,6 +15,7 @@ class PixelPOHBiasCalibration: public PixelCalibrationBase {
 
   virtual std::vector<std::string> calibrated();
   void SetAOHBiasToCurrentValue(std::string portCardName, int AOHNumber, int AOHBiasNumber);
+  void SetAOHGainToCurrentValue(std::string portCardName, int AOHNumber, int AOHBiasNumber);
 
  private:
   std::vector<unsigned> POHGains;
