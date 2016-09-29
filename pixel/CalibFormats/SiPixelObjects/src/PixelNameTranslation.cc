@@ -421,7 +421,9 @@ PixelNameTranslation::PixelNameTranslation(std::string filename):
     unsigned int fedchannel=it->second.fedchannel();
     
     std::vector<PixelROCName>& tmp= rocsFromFEDidAndChannel_[fednumber][fedchannel];
-    
+    cout << "Lea: counter " << counter[fednumber][fedchannel] << endl;
+    cout << "fednumber fedchannel " << fednumber << " " << fedchannel << endl;
+    cout << "max " << maxindex[fednumber][fedchannel]+1 << endl;
     assert(counter[fednumber][fedchannel]==maxindex[fednumber][fedchannel]+1);
 
     tmp.resize(counter[fednumber][fedchannel]);

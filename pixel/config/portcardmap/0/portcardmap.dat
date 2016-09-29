@@ -1,4 +1,5 @@
 # Portcard              Module                     POH channel
 BPix_BmO_SEC1_PRT1      BPix_BmO_SEC1_LYR2_LDR1H_MOD4    A 5
 BPix_BmO_SEC1_PRT1      BPix_BmO_SEC1_LYR2_LDR1H_MOD4    B 5
-
+BPix_BmO_SEC1_PRT1      BPix_BmO_SEC1_LYR2_LDR1H_MOD3    A 7
+BPix_BmO_SEC1_PRT1      BPix_BmO_SEC1_LYR2_LDR1H_MOD3    B 7

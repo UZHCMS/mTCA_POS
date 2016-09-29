@@ -15,3 +15,24 @@ BPix_BmO_SEC1_LYR2_LDR1H_MOD4_ROC12 A      1      1        1       31         3 
 BPix_BmO_SEC1_LYR2_LDR1H_MOD4_ROC13 A      1      1        1       31         3       13        41      10        5 
 BPix_BmO_SEC1_LYR2_LDR1H_MOD4_ROC14 A      1      1        1       31         3       14        41      10        6
 BPix_BmO_SEC1_LYR2_LDR1H_MOD4_ROC15 A      1      1        1       31         3       15        41      10        7
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC0 B       1      1        1       14         0        0        41      15        0
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC1 B       1      1        1       14         0        1        41      15        1
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC2 B       1      1        1       14         0        2        41      15        2
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC3 B       1      1        1       14         0        3        41      15        3
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC4 B       1      1        1       14         1        4        41      15        4
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC5 B       1      1        1       14         1        5        41      15        5
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC6 B       1      1        1       14         1        6        41      15        6
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC7 B       1      1        1       14         1        7        41      15        7
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC8 A       1      1        1       14         2        8        41      16        0
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC9 A       1      1        1       14         2        9        41      16        1
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC10 A      1      1        1       14         2       10        41      16        2
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC11 A      1      1        1       14         2       11        41      16        3
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC12 A      1      1        1       14         3       12        41      16        4
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC13 A      1      1        1       14         3       13        41      16        5 
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC14 A      1      1        1       14         3       14        41      16        6
+BPix_BmO_SEC1_LYR2_LDR1H_MOD3_ROC15 A      1      1        1       14         3       15        41      16        7
+
+
+
+
+
