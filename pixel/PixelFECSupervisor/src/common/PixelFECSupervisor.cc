@@ -2091,8 +2091,6 @@ bool PixelFECSupervisor::preconfigure_workloop(toolbox::task::WorkLoop * w1) {
       
       PixelConfigInterface::get(theNameTranslation_, "pixel/nametranslation/", *theGlobalKey_);
       
-      cout << "Malte: After get NameTranslation" << endl;
-      
       if (theNameTranslation_==0) {
 	pclock_->give();
 	XCEPT_RAISE(toolbox::fsm::exception::Exception,"Failed to load the nametranslation");
@@ -2196,7 +2194,6 @@ bool PixelFECSupervisor::preconfigure_workloop(toolbox::task::WorkLoop * w1) {
     LOG4CPLUS_INFO(sv_logger_,msg_debug_asl);
     
     } else {
-      std::cout << "Malte: processing else{}" << std::endl;
       std::string const msg_info_rnc = "Global key is the same as last configuration. Skipping loading of FEC data from database.";
       LOG4CPLUS_INFO(sv_logger_,msg_info_rnc);
       pclock_->take();

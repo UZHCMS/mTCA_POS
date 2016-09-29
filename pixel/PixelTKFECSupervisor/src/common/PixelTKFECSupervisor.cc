@@ -2837,8 +2837,6 @@ xoap::MessageReference PixelTKFECSupervisor::SetAOHGainEnMass (xoap::MessageRefe
 		}
 		
 
-		std::cout << "Malte: portCardName: " << portCardName << " AOHnumber " << AOHNumber << " AOHGain " << AOHGain << std::endl;
-		
 		// Change the AOH gain and record the address for this AOH.
 		portCardToChange->first.setAOHGain(AOHNumber, AOHGain);
 		const unsigned int addressToAdd = portCardToChange->first.AOHGainAddressFromAOHNumber(AOHNumber);

@@ -89,22 +89,18 @@ class PixelConfigInterface {
 		    std::string path,
 		    pos::PixelConfigKey key)
     {
-	std::cout << "Malte: started PixelConfigInterface::get(theNameTranslation_, pixel/nametranslation/, *theGlobalKey_); " << std::endl;
       std::string mthn = "[PixelConfigInterface.h::get(scalar)]\t\t\t    " ;
       std::stringstream arg ; arg << "PixelConfigInterface::get(T*) T=" << typeid(pixelObject).name() ;
       pos::PixelTimeFormatter * timer = new pos::PixelTimeFormatter(arg.str()) ;
       setGlobalKey(key) ;
       if(getMode())
 	{
-          std::cout << "Malte: if(getMode())" << std::endl;
 	  pixelConfigDB().connect();
 	  pixelConfigDB().get(pixelObject,path,key);
 	}
       else
 	{
-          std::cout << "Malte: else" << std::endl;
 	  pos::PixelConfigFile::get(pixelObject,path,key);
-          std::cout << "Malte: after  pos::PixelConfigFile::get(pixelObject,path,key)" << std::endl;
 	}
       timer->stopTimer() ;
       delete timer ;
