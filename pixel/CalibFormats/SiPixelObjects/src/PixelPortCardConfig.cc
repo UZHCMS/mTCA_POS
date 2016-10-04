@@ -1609,19 +1609,33 @@ std::string PixelPortCardConfig::AOHGainStringFromAOHNumber(unsigned int AOHNumb
 	else if ( type_ == "ph1bpix" )
 	{
 		if      (AOHNumber == 1) return "POH1_Gain12";
-		else if (AOHNumber == 2) return "POH1_Gain34";
-		else if (AOHNumber == 3) return "POH2_Gain12";
-		else if (AOHNumber == 4) return "POH2_Gain34";
-		else if (AOHNumber == 5) return "POH3_Gain12";
-		else if (AOHNumber == 6) return "POH3_Gain34";
-		else if (AOHNumber == 7) return "POH4_Gain12";
-		else if (AOHNumber == 8) return "POH4_Gain34";
-		else if (AOHNumber == 9) return "POH5_Gain12";
-		else if (AOHNumber ==10) return "POH5_Gain34";
-		else if (AOHNumber ==11) return "POH6_Gain12";
-		else if (AOHNumber ==12) return "POH6_Gain34";
-		else if (AOHNumber ==13) return "POH7_Gain12";
-		else if (AOHNumber ==14) return "POH7_Gain34";
+		else if (AOHNumber == 2) return "POH1_Gain12";
+		else if (AOHNumber == 3) return "POH1_Gain34";
+		else if (AOHNumber == 4) return "POH1_Gain34";
+		else if (AOHNumber == 5) return "POH2_Gain12";
+		else if (AOHNumber == 6) return "POH2_Gain12";
+		else if (AOHNumber == 7) return "POH2_Gain34";
+		else if (AOHNumber == 8) return "POH2_Gain34";
+		else if (AOHNumber == 9) return "POH3_Gain12";
+		else if (AOHNumber ==10) return "POH3_Gain12";
+		else if (AOHNumber ==11) return "POH3_Gain34";
+		else if (AOHNumber ==12) return "POH3_Gain34";
+		else if (AOHNumber ==13) return "POH4_Gain12";
+		else if (AOHNumber ==14) return "POH4_Gain12";
+		else if (AOHNumber ==15) return "POH4_Gain34";
+		else if (AOHNumber ==16) return "POH4_Gain34";
+		else if (AOHNumber ==17) return "POH5_Gain12";
+		else if (AOHNumber ==18) return "POH5_Gain12";
+		else if (AOHNumber ==19) return "POH5_Gain34";
+		else if (AOHNumber ==20) return "POH5_Gain34";
+		else if (AOHNumber ==21) return "POH6_Gain12";
+		else if (AOHNumber ==22) return "POH6_Gain12";
+		else if (AOHNumber ==23) return "POH6_Gain34";
+		else if (AOHNumber ==24) return "POH6_Gain34";
+		else if (AOHNumber ==25) return "POH7_Gain12";
+		else if (AOHNumber ==26) return "POH7_Gain12";
+		else if (AOHNumber ==27) return "POH7_Gain34";
+		else if (AOHNumber ==28) return "POH7_Gain34";
 		else {std::cout << __LINE__ << "]\t" << mthn 
 		                << "ERROR: For ph1bpix, POH number must be in the range 1-14, but the given POH number was "
 				<< AOHNumber
