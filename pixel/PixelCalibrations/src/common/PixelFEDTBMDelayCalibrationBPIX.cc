@@ -139,68 +139,63 @@ void PixelFEDTBMDelayCalibrationBPIX::RetrieveData(unsigned state) {
 
 
       //lc//
-      PixelPh1FEDInterface::digfifo1 d = iFED->readFIFO1(true);
-      printf("ch a: %i ch b: %i n tbm h a: %i b: %i  tbm t a: %i b: %i  roc h a: %i b: %i\n", d.a.ch, d.b.ch, d.a.n_tbm_h, d.b.n_tbm_h, d.a.n_tbm_t, d.b.n_tbm_t, d.a.n_roc_h, d.b.n_roc_h);
-      
-      /*  for( unsigned int ch = 0; ch < fedsAndChannels[ifed].second.size(); ch++ ){
-	PixelPh1FEDInterface::digfifo1 d = iFED->readFIFO1(true);
-	printf("n tbm h a: %i b: %i  tbm t a: %i b: %i  roc h a: %i b: %i\n", d.a.n_tbm_h, d.b.n_tbm_h, d.a.n_tbm_t, d.b.n_tbm_t, d.a.n_roc_h, d.b.n_roc_h);
+      //PixelPh1FEDInterface::digfifo1 d = iFED->readFIFO1(true);
 
-	//statusFifo1[ch]=0;
-	//iFED->drainErrorFifo(bufferFifo1[ch]);
-	//statusFifo1[ch] = iFED->drainFifo1(fedsAndChannels[ifed].second[ch], bufferFifo1[ch], 1024);//lc needs to be put back
-	}*/
-      /*
+
+
+
+    for (int fib = 0; fib < 24; ++fib) {
+      //if (!fibers_in_use[fib+1]) continue;
+      cout << "Reading fiber " << fib << endl;
+      iFED->setFIFO1(fib);     
+      PixelPh1FEDInterface::digfifo1 d = iFED->readFIFO1(false);
+
+
+
+
+
+      //printf("ch a: %i ch b: %i n tbm h a: %i b: %i  tbm t a: %i b: %i  roc h a: %i b: %i\n", d.a.ch, d.b.ch, d.a.n_tbm_h, d.b.n_tbm_h, d.a.n_tbm_t, d.b.n_tbm_t, d.a.n_roc_h, d.b.n_roc_h);
+   
+
       for( unsigned int ch = 0; ch < fedsAndChannels[ifed].second.size(); ch++ ){
+        int channel = (fedsAndChannels[ifed].second)[ch];
+        unsigned int chA = d.a.ch;
+        unsigned int chB = d.b.ch;
+        
+        if((channel != chA) && (channel != chB)) continue;
+        
+        bool found_TBM = d.a.n_tbm_h && d.a.n_tbm_t && d.b.n_tbm_h && d.b.n_tbm_t;
+        //bool ch_foundHit = ((d.a.n_roc_h ) && ())
+        cout << "Malte: found TBM for channel " << channel << "!!!" << endl;
+        
+        FillEm(state, fedsAndChannels[ifed].first, channel, 0, (/*!inject_ && */found_TBM)/* || (inject_ && found_TBM && ch_foundHit)*/ );
 
-       int channel = (fedsAndChannels[ifed].second)[ch];
-       bool found_TBMA = false;
-       std::vector<int> ch_decodedROCs;
-       bool ch_foundHit = false;
-
-       if (statusFifo1[ch] > 0) {
-
-        DigFIFO1Decoder theFIFO1Decoder(bufferFifo1[ch],statusFifo1[ch]);
-        if( theFIFO1Decoder.globalChannel() != channel ) continue;
-        found_TBMA = theFIFO1Decoder.foundTBM();
-        if( !inject_ ) ch_decodedROCs = theFIFO1Decoder.ROCHeaders();
-        else{
-         for( unsigned int h = 0; h < theFIFO1Decoder.nhits(); ++h ){
-          if(std::find(ch_decodedROCs.begin(),ch_decodedROCs.end(),theFIFO1Decoder.rocid(h))==ch_decodedROCs.end()) ch_decodedROCs.push_back(theFIFO1Decoder.rocid(h));
-         }
-        } 
-
-        if( DumpFIFOs ){
-         std::cout << "-----------------------------------" << std::endl;
-         std::cout << "Contents of FIFO 1 for channel " << channel << " (status = " << statusFifo1[ch] << ")" << std::endl;
-         std::cout << "-----------------------------------" << std::endl;
-         theFIFO1Decoder.printToStream(std::cout);
+        if( dacsToScan.size() == 0 ){
+          bool ch_foundROC = false;
+          if(channel == chA) ch_foundROC = (d.a.n_roc_h == 8);
+          else if(channel == chB) ch_foundROC = (d.b.n_roc_h == 8);
+          
+          // no information which ROCs have been found. Just FillEm if all are found:
+          if( ch_foundROC ){
+            for( int r = 0; r < 8; ++r ){
+              FillEm(state, fedsAndChannels[ifed].first, channel, 1, r);
+            }
+          }
         }
-
-       }
-
-       ch_foundHit = (ch_decodedROCs.size() == 4);
-       FillEm(state, fedsAndChannels[ifed].first, channel, 0, (!inject_ && found_TBMA) || (inject_ && found_TBMA && ch_foundHit) );
-
-       if( dacsToScan.size() == 0 ){
-        for( int r = 0; r < 8; ++r ){
-
-         bool ch_foundROC = std::find(ch_decodedROCs.begin(),ch_decodedROCs.end(),r+1)!=ch_decodedROCs.end();
-         if( ch_foundROC ) FillEm(state, fedsAndChannels[ifed].first, channel, 1, r);
-        }
-       }
-       else if( dacsToScan.size() == 1){
-        FillEm(state, fedsAndChannels[ifed].first, channel, 1, ch_decodedROCs.size());
-       }
+        else if( dacsToScan.size() == 1){
+          if(channel == chA) FillEm(state, fedsAndChannels[ifed].first, channel, 1, d.a.n_roc_h);
+          else if(channel == chB) FillEm(state, fedsAndChannels[ifed].first, channel, 1, d.b.n_roc_h);
+          }
 
       }// end loop on channels
-      */
-    }//end readFifo1
+    }// end loop over fibers
+      
+    }//end readFifo1 
     
   }//end loop on feds
 
-//lc// event_++;
-//lc// sendResets();
+  event_++;
+  //sendResets();
 
 }
 
@@ -249,9 +244,12 @@ void PixelFEDTBMDelayCalibrationBPIX::Analyze() {
      moduleName = theChannel.modulename();
     }
 
-    if( nFEDchannelsPerModule.find(moduleName) == nFEDchannelsPerModule.end() ) nFEDchannelsPerModule[moduleName] = 1;
-    else nFEDchannelsPerModule[moduleName] += 1;
-     
+    if( nFEDchannelsPerModule.find(moduleName) == nFEDchannelsPerModule.end() ){
+      nFEDchannelsPerModule[moduleName] = 1;
+    }
+    else {
+      nFEDchannelsPerModule[moduleName] += 1;
+      }
     //count bins with eff = 100%
     int nGoodBins = 0;     
     for( int bx = 1; bx < it2->second[0]->GetNbinsX()+1; ++bx ){
@@ -268,7 +266,12 @@ void PixelFEDTBMDelayCalibrationBPIX::Analyze() {
 
   //normalize the sum histo by number of triggers and number of fed channels
   for( std::map<std::string,std::vector<TH2F*> >::iterator it = TBMsHistoSum.begin(); it != TBMsHistoSum.end(); ++it ){
-   for( unsigned int i = 0; i < it->second.size(); ++i ){ it->second[i]->Scale(1./(nFEDchannelsPerModule[it->first])); }
+   for( unsigned int i = 0; i < it->second.size(); ++i ){
+     //M.B.: normalization should be done for TBM Header/Trailer only, not for received ROC headers
+     if (string(it->second[i]->GetTitle()).find("nROCHeaders") != string::npos) continue;
+    
+     it->second[i]->Scale(1./(nFEDchannelsPerModule[it->first])); 
+   }
   }
 
   //find best settings for each module

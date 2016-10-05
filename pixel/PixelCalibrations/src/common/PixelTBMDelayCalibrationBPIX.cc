@@ -48,6 +48,11 @@ bool PixelTBMDelayCalibrationBPIX::execute() {
     commandToAllFECCrates("CalibRunning");
   }
 
+  if (firstOfPattern) {
+    std::cout << "Sleeping 5 seconds for feds to re-acquire phases" << std::endl;
+    sleep(5);
+  }
+
   if (CycleScopeChannels) {
     const int em36 = event_ % 36;
     const int which = em36 / 9;
