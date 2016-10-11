@@ -142,13 +142,13 @@ void PixelFEDTBMDelayCalibrationBPIX::RetrieveData(unsigned state) {
       //PixelPh1FEDInterface::digfifo1 d = iFED->readFIFO1(true);
 
 
+      
 
-
-    for (int fib = 0; fib < 24; ++fib) {
+      //  for (int fib = 0; fib < 24; ++fib) {
       //if (!fibers_in_use[fib+1]) continue;
-      cout << "Reading fiber " << fib << endl;
-      iFED->setFIFO1(fib);     
-      PixelPh1FEDInterface::digfifo1 d = iFED->readFIFO1(false);
+      //  cout << "Reading fiber " << fib << endl;
+      // iFED->setFIFO1(fib);     
+      // PixelPh1FEDInterface::digfifo1 d = iFED->readFIFO1(false);
 
 
 
@@ -159,36 +159,49 @@ void PixelFEDTBMDelayCalibrationBPIX::RetrieveData(unsigned state) {
 
       for( unsigned int ch = 0; ch < fedsAndChannels[ifed].second.size(); ch++ ){
         int channel = (fedsAndChannels[ifed].second)[ch];
-        unsigned int chA = d.a.ch;
-        unsigned int chB = d.b.ch;
-        
-        if((channel != chA) && (channel != chB)) continue;
-        
-        bool found_TBM = d.a.n_tbm_h && d.a.n_tbm_t && d.b.n_tbm_h && d.b.n_tbm_t;
-        //bool ch_foundHit = ((d.a.n_roc_h ) && ())
-        cout << "Malte: found TBM for channel " << channel << "!!!" << endl;
-        
-        FillEm(state, fedsAndChannels[ifed].first, channel, 0, (/*!inject_ && */found_TBM)/* || (inject_ && found_TBM && ch_foundHit)*/ );
 
-        if( dacsToScan.size() == 0 ){
-          bool ch_foundROC = false;
-          if(channel == chA) ch_foundROC = (d.a.n_roc_h == 8);
-          else if(channel == chB) ch_foundROC = (d.b.n_roc_h == 8);
-          
-          // no information which ROCs have been found. Just FillEm if all are found:
-          if( ch_foundROC ){
-            for( int r = 0; r < 8; ++r ){
-              FillEm(state, fedsAndChannels[ifed].first, channel, 1, r);
-            }
-          }
-        }
-        else if( dacsToScan.size() == 1){
-          if(channel == chA) FillEm(state, fedsAndChannels[ifed].first, channel, 1, d.a.n_roc_h);
-          else if(channel == chB) FillEm(state, fedsAndChannels[ifed].first, channel, 1, d.b.n_roc_h);
-          }
+	///lea und malte 11.10.2016
+	if (channel%2==1) {
+	  int fib = (channel-1)/2; 
+	  cout << "Reading fiber " << fib << endl;
+	  iFED->setFIFO1(fib);     
+	  PixelPh1FEDInterface::digfifo1 d = iFED->readFIFO1(false);
+	  printf("ch a: %i ch b: %i n tbm h a: %i b: %i  tbm t a: %i b: %i  roc h a: %i b: %i\n", d.a.ch, d.b.ch, d.a.n_tbm_h, d.b.n_tbm_h, d.a.n_tbm_t, d.b.n_tbm_t, d.a.n_roc_h, d.b.n_roc_h);
+	  unsigned int chA = d.a.ch;
+	  unsigned int chB = d.b.ch;
+        
+	  if((channel != chA) || ((channel+1) != chB)) continue;
+        
+	  bool found_TBM = d.a.n_tbm_h && d.a.n_tbm_t && d.b.n_tbm_h && d.b.n_tbm_t;
+	  //bool ch_foundHit = ((d.a.n_roc_h ) && ())
+	  cout << "Malte: found TBM for fiber " << fib+1 << "!!!" << endl;
+	  cout << "fillhisto for fed " << fedsAndChannels[ifed].first << endl;
 
+	  FillEm(state, fedsAndChannels[ifed].first, chA, 0, (/*!inject_ && */found_TBM)/* || (inject_ && found_TBM && ch_foundHit)*/ );
+	  FillEm(state, fedsAndChannels[ifed].first, chB, 0, (/*!inject_ && */found_TBM)/* || (inject_ && found_TBM && ch_foundHit)*/ );
+	  
+	  if( dacsToScan.size() == 0 ){
+	    //bool ch_foundROC = false;
+	    //ch_foundROC = (d.a.n_roc_h == 8);
+	    //ch_foundROC = (d.b.n_roc_h == 8);
+	    
+	    // no information which ROCs have been found. Just FillEm if all are found:
+	    //if( ch_foundROC ){
+	    for( int r = 0; r < d.a.n_roc_h; ++r ){;
+	      FillEm(state, fedsAndChannels[ifed].first, chA, 1, r);
+	    } 
+	    for( int r = 0; r < d.b.n_roc_h; ++r ){;
+	      FillEm(state, fedsAndChannels[ifed].first, chB, 1, r);
+	    }
+	      //}
+	  }
+	  else if( dacsToScan.size() == 1){;
+	    FillEm(state, fedsAndChannels[ifed].first, chA, 1, d.a.n_roc_h);
+	    FillEm(state, fedsAndChannels[ifed].first, chB, 1, d.b.n_roc_h);
+          }
+	}//if statement for fibers
       }// end loop on channels
-    }// end loop over fibers
+      //}// end loop over fibers
       
     }//end readFifo1 
     
